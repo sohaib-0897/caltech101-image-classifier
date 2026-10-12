@@ -3,6 +3,8 @@ import csv
 import hashlib
 import json
 import random
+import subprocess
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -24,7 +26,13 @@ def read_dataset(root, name="auto"):
     failure = None
     if name != "pets":
         try:
-            dataset = Caltech101(root=str(root), target_type="category", download=True)
+            if not (root / "caltech101/101_ObjectCategories").exists():
+                # gdown has no request timeout; bound the whole download instead.
+                subprocess.run([sys.executable, "-c",
+                                "import sys; from torchvision.datasets import Caltech101; "
+                                "Caltech101(sys.argv[1], target_type='category', download=True)", str(root)],
+                               timeout=600, check=True)
+            dataset = Caltech101(root=str(root), target_type="category", download=False)
             rows = [
                 {"path": (Path("caltech101/101_ObjectCategories") / dataset.categories[label]
                           / f"image_{index:04d}.jpg").as_posix(),
