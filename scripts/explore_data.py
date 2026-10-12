@@ -18,6 +18,9 @@ from src.data import read_dataset
 def explore(root, output, name):
     output.mkdir(parents=True, exist_ok=True)
     rows, classes, info = read_dataset(root, name)
+    download_record = output / "dataset_download.json"
+    if info["name"] == "pets" and info["download_failure"] is None and download_record.exists():
+        info["download_failure"] = json.loads(download_record.read_text()).get("caltech_failure")
     counts = Counter(row["class_name"] for row in rows)
     modes = Counter()
     sizes, corrupt, inventory = [], [], []
