@@ -61,7 +61,8 @@ def seed_everything(seed):
     np.random.seed(seed)
     torch.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
-    torch.use_deterministic_algorithms(True)
+    # CUDA adaptive pooling has no deterministic backward in this torch version.
+    torch.use_deterministic_algorithms(True, warn_only=torch.cuda.is_available())
     torch.backends.cudnn.benchmark = False
 
 
