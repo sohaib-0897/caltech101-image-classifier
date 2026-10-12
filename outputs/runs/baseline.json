@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "run": "baseline",
+    "model": "cnn",
+    "seed": 42,
+    "lr": 0.001,
+    "batch_size": 32,
+    "unfreeze": 0,
+    "head_epochs": 0,
+    "fine_epochs": 8,
+    "weighted": false,
+    "device": "cpu",
+    "threads": 4,
+    "split_sha256": "34efa2b936013bda7f4ab2fbc1f7d1f1a86861fe72ccf44492d9b39ef5af3e7b",
+    "started_at": "2026-10-12T17:53:52.055238+00:00",
+    "status": "complete",
+    "error": "",
+    "parameters": 82773,
+    "best_epoch": 8,
+    "val_accuracy": 0.1542649727767695,
+    "val_macro_f1": 0.12634419600486205,
+    "seconds": 1100.8930194999557,
+    "python": "3.12.9",
+    "torch": "2.8.0+cpu",
+    "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel"
+  },
+  "epochs": [
+    {
+      "epoch": 1,
+      "phase": "scratch",
+      "train_loss": 3.5585385618461975,
+      "val_accuracy": 0.073502722323049,
+      "val_macro_f1": 0.046278395948507745,
+      "seconds": 118.73782659997232
+    },
+    {
+      "epoch": 2,
+      "phase": "scratch",
+      "train_loss": 3.449218173420077,
+      "val_accuracy": 0.09437386569872959,
+      "val_macro_f1": 0.06370171402637304,
+      "seconds": 137.90911110001616
+    },
+    {
+      "epoch": 3,
+      "phase": "scratch",
+      "train_loss": 3.3835191975114505,
+      "val_accuracy": 0.0925589836660617,
+      "val_macro_f1": 0.07552105208273055,
+      "seconds": 150.29934010002762
+    },
+    {
+      "epoch": 4,
+      "phase": "scratch",
+      "train_loss": 3.3208020389728934,
+      "val_accuracy": 0.11343012704174228,
+      "val_macro_f1": 0.08491273360067332,
+      "seconds": 177.72919030021876
+    },
+    {
+      "epoch": 5,
+      "phase": "scratch",
+      "train_loss": 3.259153070939273,
+      "val_accuracy": 0.09618874773139746,
+      "val_macro_f1": 0.07532517548715718,
+      "seconds": 160.44840930006467
+    },
+    {
+      "epoch": 6,
+      "phase": "scratch",
+      "train_loss": 3.195523275001609,
+      "val_accuracy": 0.14156079854809436,
+      "val_macro_f1": 0.10707417585036554,
+      "seconds": 122.69639199995436
+    },
+    {
+      "epoch": 7,
+      "phase": "scratch",
+      "train_loss": 3.132689999940792,
+      "val_accuracy": 0.14337568058076225,
+      "val_macro_f1": 0.10768037339471506,
+      "seconds": 113.90666680014692
+    },
+    {
+      "epoch": 8,
+      "phase": "scratch",
+      "train_loss": 3.0757700785137074,
+      "val_accuracy": 0.1542649727767695,
+      "val_macro_f1": 0.12634419600486205,
+      "seconds": 119.00570870004594
+    }
+  ]
+}

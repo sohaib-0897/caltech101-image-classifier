@@ -1,0 +1,7 @@
+{
+  "caltech_attempt": "torchvision.datasets.Caltech101(download=True)",
+  "caltech_failure": "HTTPError: HTTP Error 404: Not Found",
+  "fallback": "torchvision.datasets.OxfordIIITPet(download=True)",
+  "pet_image_transfer": "urllib stalled; restarted the official archive with curl because the server rejected range requests",
+  "recorded_at": "2026-10-12T17:36:20.103911+00:00"
+}

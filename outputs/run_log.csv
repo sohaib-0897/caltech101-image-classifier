@@ -1,0 +1,2 @@
+run,model,seed,lr,batch_size,unfreeze,head_epochs,fine_epochs,weighted,best_epoch,val_accuracy,val_macro_f1,seconds,parameters,device,threads,status,error,split_sha256,started_at
+baseline,cnn,42,0.001,32,0,0,8,False,8,0.1542649727767695,0.12634419600486205,1100.8930194999557,82773,cpu,4,complete,,34efa2b936013bda7f4ab2fbc1f7d1f1a86861fe72ccf44492d9b39ef5af3e7b,2026-10-12T17:53:52.055238+00:00
