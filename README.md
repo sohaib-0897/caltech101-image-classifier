@@ -1,8 +1,12 @@
-# image classification
+# Pet breed classifier (Oxford-IIIT Pet)
+
+I trained a small CNN and an ImageNet-pretrained MobileNetV3-small to classify pet breeds on a laptop CPU. This project includes saved splits, training logs, error analysis and an image-upload API built with FastAPI.
 
 ## problem and dataset choice
 
-I built an image classifier with a small training budget and an image-upload API. I first tried `torchvision.datasets.Caltech101(download=True)`. Its downloader returned HTTP 404, so I used `torchvision.datasets.OxfordIIITPet(download=True)` as the requested fallback. This checkpoint predicts pet breeds. The download record is in [outputs/dataset_download.json](outputs/dataset_download.json).
+The `torchvision.datasets.Caltech101(download=True)` downloader returned HTTP 404. I switched to `torchvision.datasets.OxfordIIITPet(download=True)`; the checkpoint predicts pet breeds. The download record is in [outputs/dataset_download.json](outputs/dataset_download.json).
+
+Oxford-IIIT Pet fits this task: it has 37 breeds with about 200 images per breed, enough to train a small model on a CPU. The classes are fine-grained and can look alike, including Birman/Ragdoll and American Pit Bull Terrier/Staffordshire Bull Terrier. Its near-balanced class distribution makes imbalance handling a modest part of the project.
 
 I combined the supplied Pet partitions and made my own stratified 70/15/15 split. I fixed seed 42 and saved 5,144 train, 1,102 validation and 1,103 test paths in [outputs/splits.csv](outputs/splits.csv). Paths are relative to `datasets/`. The split checksum normalizes line endings so a Windows/Linux checkout keeps the same split. Exact pixel duplicates are removed before splitting; conflicting duplicate labels are excluded altogether.
 
