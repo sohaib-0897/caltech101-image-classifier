@@ -1,5 +1,6 @@
 import argparse
 import csv
+from copy import copy
 import json
 import os
 import platform
@@ -140,6 +141,38 @@ def run_training(args):
     return summary
 
 
+def select_run(output):
+    with (output / "run_log.csv").open(newline="") as file:
+        rows = [row for row in csv.DictReader(file) if row["model"] == "mobilenet" and row["status"] == "complete"]
+    if not rows:
+        raise ValueError("No completed MobileNet runs")
+    best = max(rows, key=lambda row: float(row["val_macro_f1"]))
+    selection = {"selected_run": best["run"], "metric": "validation macro-F1", "val_macro_f1": float(best["val_macro_f1"]),
+                 "candidates": [{key: row[key] for key in ("run", "lr", "batch_size", "unfreeze", "weighted", "val_macro_f1")} for row in rows]}
+    (output / "selection.json").write_text(json.dumps(selection, indent=2) + "\n")
+    return best
+
+
+def search(args):
+    settings = [(0.001, 32, 1), (0.003, 32, 1), (0.001, 16, 1), (0.001, 32, 2)]
+    for index, (lr, batch_size, blocks) in enumerate(settings):
+        run_args = copy(args)
+        run_args.model, run_args.run = "mobilenet", f"mobile_{index + 1}"
+        run_args.lr, run_args.batch_size, run_args.unfreeze = lr, batch_size, blocks
+        run_args.search = False
+        path = args.output / "runs" / f"{run_args.run}.json"
+        if path.exists():
+            previous = json.loads(path.read_text())["summary"]
+            expected = {"lr": lr, "batch_size": batch_size, "unfreeze": blocks, "seed": args.seed,
+                        "head_epochs": args.head_epochs, "fine_epochs": args.fine_epochs}
+            if previous["status"] != "complete" or any(previous[key] != value for key, value in expected.items()):
+                raise ValueError(f"Existing {run_args.run} is incomplete or has another configuration")
+            print(f"Using completed {run_args.run}", flush=True)
+        else:
+            run_training(run_args)
+    best = select_run(args.output)
+    print(f"Selected {best['run']} by validation macro-F1 {float(best['val_macro_f1']):.4f}", flush=True)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -147,6 +180,7 @@ if __name__ == "__main__":
     parser.add_argument("--output", type=Path, default=Path("outputs"))
     parser.add_argument("--checkpoints", type=Path, default=Path("checkpoints"))
     parser.add_argument("--run", default="baseline")
+    parser.add_argument("--search", action="store_true")
     parser.add_argument("--model", choices=["cnn", "mobilenet"], default="cnn")
     parser.add_argument("--epochs", type=int, default=8)
     parser.add_argument("--head-epochs", type=int, default=2)
@@ -162,4 +196,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if min(args.epochs, args.head_epochs, args.fine_epochs, args.batch_size, args.threads) < 1 or args.unfreeze < 0:
         parser.error("epochs, batch size and threads must be positive")
-    run_training(args)
+    if args.search:
+        search(args)
+    else:
+        run_training(args)

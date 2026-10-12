@@ -1,0 +1,9 @@
+{
+  "scope": "first three images from each of six selected breeds; see label_review.png",
+  "observations": [
+    "Birman and Ragdoll examples share pale coats, darker faces and blue eyes",
+    "American Bulldog, American Pit Bull Terrier and Staffordshire Bull Terrier examples have similar short coats and face shapes"
+  ],
+  "confirmed_label_errors": [],
+  "exact_pixel_duplicate_groups": 0
+}

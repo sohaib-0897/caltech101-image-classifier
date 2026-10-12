@@ -1,0 +1,69 @@
+{
+  "summary": {
+    "run": "mobile_4",
+    "model": "mobilenet",
+    "seed": 42,
+    "lr": 0.001,
+    "batch_size": 32,
+    "unfreeze": 2,
+    "head_epochs": 2,
+    "fine_epochs": 3,
+    "weighted": false,
+    "device": "cpu",
+    "threads": 4,
+    "split_sha256": "34efa2b936013bda7f4ab2fbc1f7d1f1a86861fe72ccf44492d9b39ef5af3e7b",
+    "started_at": "2026-10-12T19:00:50.745064+00:00",
+    "status": "complete",
+    "error": "",
+    "parameters": 1555781,
+    "best_epoch": 5,
+    "val_accuracy": 0.6851179673321234,
+    "val_macro_f1": 0.6828280846925748,
+    "seconds": 721.3663196999114,
+    "python": "3.12.9",
+    "torch": "2.8.0+cpu",
+    "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel"
+  },
+  "epochs": [
+    {
+      "epoch": 1,
+      "phase": "head",
+      "train_loss": 1.504799895208694,
+      "val_accuracy": 0.6243194192377496,
+      "val_macro_f1": 0.6192377804511568,
+      "seconds": 131.57999129989184
+    },
+    {
+      "epoch": 2,
+      "phase": "head",
+      "train_loss": 0.7988079740878768,
+      "val_accuracy": 0.6488203266787659,
+      "val_macro_f1": 0.6498436594468882,
+      "seconds": 123.86079319985583
+    },
+    {
+      "epoch": 3,
+      "phase": "fine",
+      "train_loss": 0.6580722036294951,
+      "val_accuracy": 0.6715063520871143,
+      "val_macro_f1": 0.672172466097641,
+      "seconds": 154.61873349989764
+    },
+    {
+      "epoch": 4,
+      "phase": "fine",
+      "train_loss": 0.44564997742001783,
+      "val_accuracy": 0.6751361161524501,
+      "val_macro_f1": 0.6738364828370959,
+      "seconds": 161.4181488000322
+    },
+    {
+      "epoch": 5,
+      "phase": "fine",
+      "train_loss": 0.2911603259817809,
+      "val_accuracy": 0.6851179673321234,
+      "val_macro_f1": 0.6828280846925748,
+      "seconds": 149.23498729988933
+    }
+  ]
+}

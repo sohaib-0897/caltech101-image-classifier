@@ -1,0 +1,39 @@
+{
+  "selected_run": "mobile_4",
+  "metric": "validation macro-F1",
+  "val_macro_f1": 0.6828280846925748,
+  "candidates": [
+    {
+      "run": "mobile_1",
+      "lr": "0.001",
+      "batch_size": "32",
+      "unfreeze": "1",
+      "weighted": "False",
+      "val_macro_f1": "0.6708744860296952"
+    },
+    {
+      "run": "mobile_2",
+      "lr": "0.003",
+      "batch_size": "32",
+      "unfreeze": "1",
+      "weighted": "False",
+      "val_macro_f1": "0.638268544188944"
+    },
+    {
+      "run": "mobile_3",
+      "lr": "0.001",
+      "batch_size": "16",
+      "unfreeze": "1",
+      "weighted": "False",
+      "val_macro_f1": "0.6748893588128503"
+    },
+    {
+      "run": "mobile_4",
+      "lr": "0.001",
+      "batch_size": "32",
+      "unfreeze": "2",
+      "weighted": "False",
+      "val_macro_f1": "0.6828280846925748"
+    }
+  ]
+}
