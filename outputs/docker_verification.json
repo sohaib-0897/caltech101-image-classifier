@@ -1,0 +1,46 @@
+{
+  "image": "image-classifier",
+  "build": {
+    "torch": "2.8.0+cpu",
+    "torchvision": "0.23.0+cpu",
+    "cuda": false,
+    "uid": 1000,
+    "python": "3.12.15",
+    "checkpoint_sha256": "befd877c51f8301d47da6b94f93992095c5b8c66447b7e2cb0d0d43c78bf14b2"
+  },
+  "health": {
+    "status": "ok",
+    "run": "mobile_4",
+    "dataset": "pets",
+    "classes": 37
+  },
+  "upload_status": 200,
+  "prediction": {
+    "label": "uncertain",
+    "uncertain": true,
+    "threshold": 0.85,
+    "predictions": [
+      {
+        "label": "Abyssinian",
+        "probability": 0.8072461485862732
+      },
+      {
+        "label": "Shiba Inu",
+        "probability": 0.1407415121793747
+      },
+      {
+        "label": "Sphynx",
+        "probability": 0.03971003741025925
+      },
+      {
+        "label": "Chihuahua",
+        "probability": 0.004151900764554739
+      },
+      {
+        "label": "American Pit Bull Terrier",
+        "probability": 0.0026709814555943012
+      }
+    ]
+  },
+  "unreadable_status": 400
+}
