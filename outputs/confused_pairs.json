@@ -1,0 +1,72 @@
+[
+  {
+    "class_a": "British Shorthair",
+    "class_b": "Russian Blue",
+    "count": 13,
+    "a_as_b": 8,
+    "b_as_a": 5
+  },
+  {
+    "class_a": "Birman",
+    "class_b": "Ragdoll",
+    "count": 12,
+    "a_as_b": 4,
+    "b_as_a": 8
+  },
+  {
+    "class_a": "American Pit Bull Terrier",
+    "class_b": "Staffordshire Bull Terrier",
+    "count": 11,
+    "a_as_b": 6,
+    "b_as_a": 5
+  },
+  {
+    "class_a": "Bengal",
+    "class_b": "Egyptian Mau",
+    "count": 8,
+    "a_as_b": 5,
+    "b_as_a": 3
+  },
+  {
+    "class_a": "Maine Coon",
+    "class_b": "Persian",
+    "count": 8,
+    "a_as_b": 7,
+    "b_as_a": 1
+  },
+  {
+    "class_a": "Basset Hound",
+    "class_b": "Beagle",
+    "count": 8,
+    "a_as_b": 1,
+    "b_as_a": 7
+  },
+  {
+    "class_a": "Havanese",
+    "class_b": "Wheaten Terrier",
+    "count": 8,
+    "a_as_b": 0,
+    "b_as_a": 8
+  },
+  {
+    "class_a": "Chihuahua",
+    "class_b": "Miniature Pinscher",
+    "count": 7,
+    "a_as_b": 3,
+    "b_as_a": 4
+  },
+  {
+    "class_a": "English Cocker Spaniel",
+    "class_b": "English Setter",
+    "count": 7,
+    "a_as_b": 2,
+    "b_as_a": 5
+  },
+  {
+    "class_a": "Great Pyrenees",
+    "class_b": "Samoyed",
+    "count": 6,
+    "a_as_b": 5,
+    "b_as_a": 1
+  }
+]

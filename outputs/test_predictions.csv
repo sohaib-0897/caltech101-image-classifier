@@ -1,0 +1,1104 @@
+path,true_label,predicted_label,confidence
+oxford-iiit-pet/images/Abyssinian_105.jpg,Abyssinian,Egyptian Mau,0.5175617933273315
+oxford-iiit-pet/images/Abyssinian_110.jpg,Abyssinian,Abyssinian,0.9849390983581543
+oxford-iiit-pet/images/Abyssinian_111.jpg,Abyssinian,Abyssinian,0.9261492490768433
+oxford-iiit-pet/images/Abyssinian_114.jpg,Abyssinian,Sphynx,0.48465386033058167
+oxford-iiit-pet/images/Abyssinian_117.jpg,Abyssinian,Abyssinian,0.9226222634315491
+oxford-iiit-pet/images/Abyssinian_135.jpg,Abyssinian,Abyssinian,0.9177634119987488
+oxford-iiit-pet/images/Abyssinian_138.jpg,Abyssinian,Abyssinian,0.549931526184082
+oxford-iiit-pet/images/Abyssinian_146.jpg,Abyssinian,Bengal,0.4366956055164337
+oxford-iiit-pet/images/Abyssinian_148.jpg,Abyssinian,Abyssinian,0.7802215814590454
+oxford-iiit-pet/images/Abyssinian_176.jpg,Abyssinian,Abyssinian,0.5108370184898376
+oxford-iiit-pet/images/Abyssinian_183.jpg,Abyssinian,Bengal,0.630835771560669
+oxford-iiit-pet/images/Abyssinian_185.jpg,Abyssinian,Abyssinian,0.9035006761550903
+oxford-iiit-pet/images/Abyssinian_191.jpg,Abyssinian,Egyptian Mau,0.688481867313385
+oxford-iiit-pet/images/Abyssinian_202.jpg,Abyssinian,Abyssinian,0.5917410254478455
+oxford-iiit-pet/images/Abyssinian_205.jpg,Abyssinian,Abyssinian,0.8336185216903687
+oxford-iiit-pet/images/Abyssinian_207.jpg,Abyssinian,Abyssinian,0.6649935841560364
+oxford-iiit-pet/images/Abyssinian_228.jpg,Abyssinian,Abyssinian,0.9969499707221985
+oxford-iiit-pet/images/Abyssinian_27.jpg,Abyssinian,Abyssinian,0.9992038607597351
+oxford-iiit-pet/images/Abyssinian_3.jpg,Abyssinian,Maine Coon,0.6882877349853516
+oxford-iiit-pet/images/Abyssinian_31.jpg,Abyssinian,Abyssinian,0.7264649271965027
+oxford-iiit-pet/images/Abyssinian_32.jpg,Abyssinian,Russian Blue,0.6750357151031494
+oxford-iiit-pet/images/Abyssinian_48.jpg,Abyssinian,Abyssinian,0.9514276385307312
+oxford-iiit-pet/images/Abyssinian_60.jpg,Abyssinian,Miniature Pinscher,0.6304631233215332
+oxford-iiit-pet/images/Abyssinian_67.jpg,Abyssinian,Sphynx,0.699607789516449
+oxford-iiit-pet/images/Abyssinian_7.jpg,Abyssinian,Newfoundland,0.4217582643032074
+oxford-iiit-pet/images/Abyssinian_70.jpg,Abyssinian,Egyptian Mau,0.4300624132156372
+oxford-iiit-pet/images/Abyssinian_91.jpg,Abyssinian,Abyssinian,0.9921354055404663
+oxford-iiit-pet/images/Abyssinian_92.jpg,Abyssinian,Abyssinian,0.7168985605239868
+oxford-iiit-pet/images/Abyssinian_93.jpg,Abyssinian,Abyssinian,0.9016137719154358
+oxford-iiit-pet/images/Abyssinian_99.jpg,Abyssinian,Abyssinian,0.9809690713882446
+oxford-iiit-pet/images/Bengal_107.jpg,Bengal,Bengal,0.9917770624160767
+oxford-iiit-pet/images/Bengal_108.jpg,Bengal,Bengal,0.9739888906478882
+oxford-iiit-pet/images/Bengal_121.jpg,Bengal,Bengal,0.9154093265533447
+oxford-iiit-pet/images/Bengal_128.jpg,Bengal,Bengal,0.8834242820739746
+oxford-iiit-pet/images/Bengal_131.jpg,Bengal,English Cocker Spaniel,0.23855718970298767
+oxford-iiit-pet/images/Bengal_137.jpg,Bengal,Bengal,0.8572335243225098
+oxford-iiit-pet/images/Bengal_152.jpg,Bengal,Egyptian Mau,0.8515430688858032
+oxford-iiit-pet/images/Bengal_158.jpg,Bengal,Maine Coon,0.3203907310962677
+oxford-iiit-pet/images/Bengal_16.jpg,Bengal,Bengal,0.6223028302192688
+oxford-iiit-pet/images/Bengal_163.jpg,Bengal,Shiba Inu,0.504235565662384
+oxford-iiit-pet/images/Bengal_165.jpg,Bengal,Egyptian Mau,0.9882955551147461
+oxford-iiit-pet/images/Bengal_176.jpg,Bengal,British Shorthair,0.8075788021087646
+oxford-iiit-pet/images/Bengal_18.jpg,Bengal,Bengal,0.492451548576355
+oxford-iiit-pet/images/Bengal_185.jpg,Bengal,Egyptian Mau,0.9167042970657349
+oxford-iiit-pet/images/Bengal_187.jpg,Bengal,Bengal,0.5000612139701843
+oxford-iiit-pet/images/Bengal_19.jpg,Bengal,Bengal,0.2886393666267395
+oxford-iiit-pet/images/Bengal_193.jpg,Bengal,Egyptian Mau,0.6974897980690002
+oxford-iiit-pet/images/Bengal_196.jpg,Bengal,Bengal,0.5767036080360413
+oxford-iiit-pet/images/Bengal_2.jpg,Bengal,Egyptian Mau,0.7700803875923157
+oxford-iiit-pet/images/Bengal_66.jpg,Bengal,Bengal,0.9958913326263428
+oxford-iiit-pet/images/Bengal_77.jpg,Bengal,Bengal,0.8198397159576416
+oxford-iiit-pet/images/Bengal_80.jpg,Bengal,Bengal,0.7815113067626953
+oxford-iiit-pet/images/Bengal_81.jpg,Bengal,Bengal,0.9726587533950806
+oxford-iiit-pet/images/Bengal_85.jpg,Bengal,Bengal,0.8419321775436401
+oxford-iiit-pet/images/Bengal_87.jpg,Bengal,Abyssinian,0.7980194687843323
+oxford-iiit-pet/images/Bengal_88.jpg,Bengal,Newfoundland,0.4567683935165405
+oxford-iiit-pet/images/Bengal_90.jpg,Bengal,Bengal,0.9616581797599792
+oxford-iiit-pet/images/Bengal_92.jpg,Bengal,Bengal,0.35147181153297424
+oxford-iiit-pet/images/Bengal_95.jpg,Bengal,Bengal,0.973112940788269
+oxford-iiit-pet/images/Bengal_99.jpg,Bengal,Bengal,0.8807713389396667
+oxford-iiit-pet/images/Birman_10.jpg,Birman,Birman,0.9027393460273743
+oxford-iiit-pet/images/Birman_108.jpg,Birman,Siamese,0.9055333137512207
+oxford-iiit-pet/images/Birman_113.jpg,Birman,Birman,0.9360347986221313
+oxford-iiit-pet/images/Birman_120.jpg,Birman,Birman,0.9412317872047424
+oxford-iiit-pet/images/Birman_129.jpg,Birman,Birman,0.7012711763381958
+oxford-iiit-pet/images/Birman_130.jpg,Birman,Birman,0.465537965297699
+oxford-iiit-pet/images/Birman_134.jpg,Birman,Birman,0.992737352848053
+oxford-iiit-pet/images/Birman_136.jpg,Birman,Birman,0.5042880177497864
+oxford-iiit-pet/images/Birman_140.jpg,Birman,Birman,0.9694368839263916
+oxford-iiit-pet/images/Birman_146.jpg,Birman,Ragdoll,0.44318699836730957
+oxford-iiit-pet/images/Birman_151.jpg,Birman,Japanese Chin,0.5510734915733337
+oxford-iiit-pet/images/Birman_161.jpg,Birman,Birman,0.604509711265564
+oxford-iiit-pet/images/Birman_175.jpg,Birman,Ragdoll,0.5736956000328064
+oxford-iiit-pet/images/Birman_176.jpg,Birman,American Bulldog,0.7936139106750488
+oxford-iiit-pet/images/Birman_188.jpg,Birman,Birman,0.9807228446006775
+oxford-iiit-pet/images/Birman_191.jpg,Birman,Birman,0.995919406414032
+oxford-iiit-pet/images/Birman_198.jpg,Birman,Birman,0.5158549547195435
+oxford-iiit-pet/images/Birman_20.jpg,Birman,Birman,0.9211702942848206
+oxford-iiit-pet/images/Birman_201.jpg,Birman,Ragdoll,0.3981199860572815
+oxford-iiit-pet/images/Birman_21.jpg,Birman,Birman,0.9330791234970093
+oxford-iiit-pet/images/Birman_25.jpg,Birman,Birman,0.8938825130462646
+oxford-iiit-pet/images/Birman_34.jpg,Birman,Ragdoll,0.5689248442649841
+oxford-iiit-pet/images/Birman_35.jpg,Birman,Japanese Chin,0.8644229173660278
+oxford-iiit-pet/images/Birman_51.jpg,Birman,Birman,0.7900306582450867
+oxford-iiit-pet/images/Birman_54.jpg,Birman,Birman,0.7218157649040222
+oxford-iiit-pet/images/Birman_57.jpg,Birman,Siamese,0.2076234370470047
+oxford-iiit-pet/images/Birman_63.jpg,Birman,Birman,0.9172752499580383
+oxford-iiit-pet/images/Birman_68.jpg,Birman,Birman,0.8998522162437439
+oxford-iiit-pet/images/Birman_73.jpg,Birman,Birman,0.9937718510627747
+oxford-iiit-pet/images/Birman_96.jpg,Birman,Birman,0.7669159770011902
+oxford-iiit-pet/images/Bombay_100.jpg,Bombay,Bombay,0.9988085031509399
+oxford-iiit-pet/images/Bombay_101.jpg,Bombay,Bombay,0.9994062185287476
+oxford-iiit-pet/images/Bombay_107.jpg,Bombay,Bombay,0.9994834661483765
+oxford-iiit-pet/images/Bombay_113.jpg,Bombay,Bombay,0.9972540736198425
+oxford-iiit-pet/images/Bombay_135.jpg,Bombay,Bombay,0.9892667531967163
+oxford-iiit-pet/images/Bombay_152.jpg,Bombay,Bombay,0.9939079284667969
+oxford-iiit-pet/images/Bombay_156.jpg,Bombay,Bombay,0.8873819708824158
+oxford-iiit-pet/images/Bombay_158.jpg,Bombay,Bombay,0.9982733726501465
+oxford-iiit-pet/images/Bombay_161.jpg,Bombay,Bombay,0.9957245588302612
+oxford-iiit-pet/images/Bombay_164.jpg,Bombay,Bombay,0.8104104399681091
+oxford-iiit-pet/images/Bombay_170.jpg,Bombay,Bombay,0.999570906162262
+oxford-iiit-pet/images/Bombay_184.jpg,Bombay,Newfoundland,0.8881345987319946
+oxford-iiit-pet/images/Bombay_215.jpg,Bombay,Newfoundland,0.48042771220207214
+oxford-iiit-pet/images/Bombay_34.jpg,Bombay,Scottish Terrier,0.7175650000572205
+oxford-iiit-pet/images/Bombay_56.jpg,Bombay,Bombay,0.9986016154289246
+oxford-iiit-pet/images/Bombay_57.jpg,Bombay,Bombay,0.7280523777008057
+oxford-iiit-pet/images/Bombay_58.jpg,Bombay,Shiba Inu,0.29516997933387756
+oxford-iiit-pet/images/Bombay_63.jpg,Bombay,Bombay,0.9801454544067383
+oxford-iiit-pet/images/Bombay_67.jpg,Bombay,Bombay,0.9143543839454651
+oxford-iiit-pet/images/Bombay_8.jpg,Bombay,Newfoundland,0.8177413940429688
+oxford-iiit-pet/images/Bombay_80.jpg,Bombay,Bombay,0.9999326467514038
+oxford-iiit-pet/images/Bombay_83.jpg,Bombay,Bombay,0.9975346326828003
+oxford-iiit-pet/images/Bombay_88.jpg,Bombay,Bombay,0.9961118102073669
+oxford-iiit-pet/images/Bombay_94.jpg,Bombay,Bombay,0.9761141538619995
+oxford-iiit-pet/images/Bombay_95.jpg,Bombay,Bombay,0.9989162683486938
+oxford-iiit-pet/images/Bombay_97.jpg,Bombay,Bombay,0.9570801854133606
+oxford-iiit-pet/images/Bombay_98.jpg,Bombay,Bombay,0.9855749607086182
+oxford-iiit-pet/images/British_Shorthair_102.jpg,British Shorthair,Russian Blue,0.7691315412521362
+oxford-iiit-pet/images/British_Shorthair_110.jpg,British Shorthair,British Shorthair,0.6547173261642456
+oxford-iiit-pet/images/British_Shorthair_112.jpg,British Shorthair,Russian Blue,0.9947086572647095
+oxford-iiit-pet/images/British_Shorthair_116.jpg,British Shorthair,British Shorthair,0.9831516742706299
+oxford-iiit-pet/images/British_Shorthair_130.jpg,British Shorthair,British Shorthair,0.6493474841117859
+oxford-iiit-pet/images/British_Shorthair_155.jpg,British Shorthair,British Shorthair,0.7937727570533752
+oxford-iiit-pet/images/British_Shorthair_156.jpg,British Shorthair,Russian Blue,0.9617878794670105
+oxford-iiit-pet/images/British_Shorthair_157.jpg,British Shorthair,British Shorthair,0.3468722999095917
+oxford-iiit-pet/images/British_Shorthair_159.jpg,British Shorthair,Newfoundland,0.9105162620544434
+oxford-iiit-pet/images/British_Shorthair_161.jpg,British Shorthair,British Shorthair,0.9983333945274353
+oxford-iiit-pet/images/British_Shorthair_183.jpg,British Shorthair,German Shorthaired,0.40806686878204346
+oxford-iiit-pet/images/British_Shorthair_2.jpg,British Shorthair,British Shorthair,0.9717699885368347
+oxford-iiit-pet/images/British_Shorthair_203.jpg,British Shorthair,Russian Blue,0.7256861925125122
+oxford-iiit-pet/images/British_Shorthair_205.jpg,British Shorthair,Russian Blue,0.8224725127220154
+oxford-iiit-pet/images/British_Shorthair_207.jpg,British Shorthair,Russian Blue,0.8876475095748901
+oxford-iiit-pet/images/British_Shorthair_209.jpg,British Shorthair,British Shorthair,0.9729976654052734
+oxford-iiit-pet/images/British_Shorthair_218.jpg,British Shorthair,Abyssinian,0.704745352268219
+oxford-iiit-pet/images/British_Shorthair_230.jpg,British Shorthair,Persian,0.4654291272163391
+oxford-iiit-pet/images/British_Shorthair_266.jpg,British Shorthair,Staffordshire Bull Terrier,0.48650893568992615
+oxford-iiit-pet/images/British_Shorthair_28.jpg,British Shorthair,British Shorthair,0.527103841304779
+oxford-iiit-pet/images/British_Shorthair_31.jpg,British Shorthair,Russian Blue,0.778249204158783
+oxford-iiit-pet/images/British_Shorthair_45.jpg,British Shorthair,British Shorthair,0.9188070297241211
+oxford-iiit-pet/images/British_Shorthair_49.jpg,British Shorthair,Sphynx,0.6350783109664917
+oxford-iiit-pet/images/British_Shorthair_53.jpg,British Shorthair,British Shorthair,0.9944514632225037
+oxford-iiit-pet/images/British_Shorthair_56.jpg,British Shorthair,British Shorthair,0.773952066898346
+oxford-iiit-pet/images/British_Shorthair_60.jpg,British Shorthair,British Shorthair,0.8647519946098328
+oxford-iiit-pet/images/British_Shorthair_83.jpg,British Shorthair,Russian Blue,0.9959555864334106
+oxford-iiit-pet/images/British_Shorthair_87.jpg,British Shorthair,Abyssinian,0.234369695186615
+oxford-iiit-pet/images/British_Shorthair_90.jpg,British Shorthair,British Shorthair,0.9983931183815002
+oxford-iiit-pet/images/British_Shorthair_91.jpg,British Shorthair,Sphynx,0.4949266016483307
+oxford-iiit-pet/images/Egyptian_Mau_10.jpg,Egyptian Mau,Egyptian Mau,0.9994437098503113
+oxford-iiit-pet/images/Egyptian_Mau_105.jpg,Egyptian Mau,Egyptian Mau,0.9986967444419861
+oxford-iiit-pet/images/Egyptian_Mau_109.jpg,Egyptian Mau,Egyptian Mau,0.5338046550750732
+oxford-iiit-pet/images/Egyptian_Mau_126.jpg,Egyptian Mau,Egyptian Mau,0.9997238516807556
+oxford-iiit-pet/images/Egyptian_Mau_130.jpg,Egyptian Mau,Egyptian Mau,0.7035549283027649
+oxford-iiit-pet/images/Egyptian_Mau_141.jpg,Egyptian Mau,Bengal,0.8087388277053833
+oxford-iiit-pet/images/Egyptian_Mau_144.jpg,Egyptian Mau,Egyptian Mau,0.9559397101402283
+oxford-iiit-pet/images/Egyptian_Mau_148.jpg,Egyptian Mau,Russian Blue,0.2823247015476227
+oxford-iiit-pet/images/Egyptian_Mau_155.jpg,Egyptian Mau,Maine Coon,0.5445801019668579
+oxford-iiit-pet/images/Egyptian_Mau_165.jpg,Egyptian Mau,Bengal,0.669130802154541
+oxford-iiit-pet/images/Egyptian_Mau_171.jpg,Egyptian Mau,Egyptian Mau,0.9474790096282959
+oxford-iiit-pet/images/Egyptian_Mau_188.jpg,Egyptian Mau,Egyptian Mau,0.560709536075592
+oxford-iiit-pet/images/Egyptian_Mau_194.jpg,Egyptian Mau,Egyptian Mau,0.9719128608703613
+oxford-iiit-pet/images/Egyptian_Mau_199.jpg,Egyptian Mau,Egyptian Mau,0.9985472559928894
+oxford-iiit-pet/images/Egyptian_Mau_21.jpg,Egyptian Mau,Egyptian Mau,0.9994848966598511
+oxford-iiit-pet/images/Egyptian_Mau_212.jpg,Egyptian Mau,Egyptian Mau,0.9994028806686401
+oxford-iiit-pet/images/Egyptian_Mau_223.jpg,Egyptian Mau,Bengal,0.5386781692504883
+oxford-iiit-pet/images/Egyptian_Mau_23.jpg,Egyptian Mau,German Shorthaired,0.4941696524620056
+oxford-iiit-pet/images/Egyptian_Mau_27.jpg,Egyptian Mau,Egyptian Mau,0.9173316359519958
+oxford-iiit-pet/images/Egyptian_Mau_29.jpg,Egyptian Mau,Egyptian Mau,0.7318534255027771
+oxford-iiit-pet/images/Egyptian_Mau_44.jpg,Egyptian Mau,Egyptian Mau,0.9991831183433533
+oxford-iiit-pet/images/Egyptian_Mau_46.jpg,Egyptian Mau,Egyptian Mau,0.9976645708084106
+oxford-iiit-pet/images/Egyptian_Mau_58.jpg,Egyptian Mau,Egyptian Mau,0.9991876482963562
+oxford-iiit-pet/images/Egyptian_Mau_7.jpg,Egyptian Mau,Egyptian Mau,0.9889178276062012
+oxford-iiit-pet/images/Egyptian_Mau_80.jpg,Egyptian Mau,Egyptian Mau,0.9684329628944397
+oxford-iiit-pet/images/Egyptian_Mau_83.jpg,Egyptian Mau,Egyptian Mau,0.9949705004692078
+oxford-iiit-pet/images/Egyptian_Mau_86.jpg,Egyptian Mau,Egyptian Mau,0.9477397799491882
+oxford-iiit-pet/images/Egyptian_Mau_87.jpg,Egyptian Mau,Egyptian Mau,0.9981270432472229
+oxford-iiit-pet/images/Maine_Coon_126.jpg,Maine Coon,Maine Coon,0.9011696577072144
+oxford-iiit-pet/images/Maine_Coon_129.jpg,Maine Coon,Maine Coon,0.9210788011550903
+oxford-iiit-pet/images/Maine_Coon_137.jpg,Maine Coon,Maine Coon,0.6284878253936768
+oxford-iiit-pet/images/Maine_Coon_142.jpg,Maine Coon,Russian Blue,0.4360716938972473
+oxford-iiit-pet/images/Maine_Coon_143.jpg,Maine Coon,Maine Coon,0.992823600769043
+oxford-iiit-pet/images/Maine_Coon_148.jpg,Maine Coon,Havanese,0.935126781463623
+oxford-iiit-pet/images/Maine_Coon_149.jpg,Maine Coon,Maine Coon,0.9932356476783752
+oxford-iiit-pet/images/Maine_Coon_157.jpg,Maine Coon,Maine Coon,0.6077391505241394
+oxford-iiit-pet/images/Maine_Coon_159.jpg,Maine Coon,Maine Coon,0.8294649720191956
+oxford-iiit-pet/images/Maine_Coon_164.jpg,Maine Coon,Maine Coon,0.9001331329345703
+oxford-iiit-pet/images/Maine_Coon_170.jpg,Maine Coon,Maine Coon,0.9693553447723389
+oxford-iiit-pet/images/Maine_Coon_175.jpg,Maine Coon,Maine Coon,0.7488846778869629
+oxford-iiit-pet/images/Maine_Coon_184.jpg,Maine Coon,Persian,0.7386100888252258
+oxford-iiit-pet/images/Maine_Coon_194.jpg,Maine Coon,Maine Coon,0.6106557250022888
+oxford-iiit-pet/images/Maine_Coon_208.jpg,Maine Coon,Maine Coon,0.9314470887184143
+oxford-iiit-pet/images/Maine_Coon_24.jpg,Maine Coon,Persian,0.8563427925109863
+oxford-iiit-pet/images/Maine_Coon_27.jpg,Maine Coon,Persian,0.603994607925415
+oxford-iiit-pet/images/Maine_Coon_3.jpg,Maine Coon,Maine Coon,0.7980877757072449
+oxford-iiit-pet/images/Maine_Coon_32.jpg,Maine Coon,Maine Coon,0.6604351997375488
+oxford-iiit-pet/images/Maine_Coon_37.jpg,Maine Coon,Persian,0.5501177906990051
+oxford-iiit-pet/images/Maine_Coon_44.jpg,Maine Coon,Sphynx,0.30597782135009766
+oxford-iiit-pet/images/Maine_Coon_5.jpg,Maine Coon,Persian,0.7036153078079224
+oxford-iiit-pet/images/Maine_Coon_66.jpg,Maine Coon,Maine Coon,0.967045247554779
+oxford-iiit-pet/images/Maine_Coon_68.jpg,Maine Coon,Maine Coon,0.9108444452285767
+oxford-iiit-pet/images/Maine_Coon_69.jpg,Maine Coon,Bengal,0.6124122738838196
+oxford-iiit-pet/images/Maine_Coon_72.jpg,Maine Coon,Persian,0.6861907839775085
+oxford-iiit-pet/images/Maine_Coon_77.jpg,Maine Coon,Maine Coon,0.3789919316768646
+oxford-iiit-pet/images/Maine_Coon_81.jpg,Maine Coon,Maine Coon,0.9541606307029724
+oxford-iiit-pet/images/Maine_Coon_96.jpg,Maine Coon,Persian,0.7542299628257751
+oxford-iiit-pet/images/Maine_Coon_98.jpg,Maine Coon,Samoyed,0.47551700472831726
+oxford-iiit-pet/images/Persian_100.jpg,Persian,Persian,0.9656423926353455
+oxford-iiit-pet/images/Persian_13.jpg,Persian,Persian,0.5820602178573608
+oxford-iiit-pet/images/Persian_137.jpg,Persian,Persian,0.7710492014884949
+oxford-iiit-pet/images/Persian_14.jpg,Persian,Persian,0.9923884272575378
+oxford-iiit-pet/images/Persian_140.jpg,Persian,Persian,0.9997915625572205
+oxford-iiit-pet/images/Persian_147.jpg,Persian,Persian,0.7466253042221069
+oxford-iiit-pet/images/Persian_152.jpg,Persian,Persian,0.989685595035553
+oxford-iiit-pet/images/Persian_162.jpg,Persian,Persian,0.992816686630249
+oxford-iiit-pet/images/Persian_165.jpg,Persian,Persian,0.9914757013320923
+oxford-iiit-pet/images/Persian_166.jpg,Persian,Persian,0.9963384866714478
+oxford-iiit-pet/images/Persian_169.jpg,Persian,Persian,0.742073118686676
+oxford-iiit-pet/images/Persian_175.jpg,Persian,Persian,0.9939747452735901
+oxford-iiit-pet/images/Persian_184.jpg,Persian,Persian,0.9796831011772156
+oxford-iiit-pet/images/Persian_187.jpg,Persian,Persian,0.7237223386764526
+oxford-iiit-pet/images/Persian_188.jpg,Persian,Persian,0.5483176112174988
+oxford-iiit-pet/images/Persian_196.jpg,Persian,Persian,0.9441195726394653
+oxford-iiit-pet/images/Persian_206.jpg,Persian,Persian,0.9130151867866516
+oxford-iiit-pet/images/Persian_213.jpg,Persian,Persian,0.9971573352813721
+oxford-iiit-pet/images/Persian_221.jpg,Persian,British Shorthair,0.6679956316947937
+oxford-iiit-pet/images/Persian_257.jpg,Persian,Persian,0.9295826554298401
+oxford-iiit-pet/images/Persian_260.jpg,Persian,Persian,0.6069220304489136
+oxford-iiit-pet/images/Persian_268.jpg,Persian,Samoyed,0.5592547655105591
+oxford-iiit-pet/images/Persian_271.jpg,Persian,Persian,0.7025822997093201
+oxford-iiit-pet/images/Persian_29.jpg,Persian,Yorkshire Terrier,0.2913416922092438
+oxford-iiit-pet/images/Persian_53.jpg,Persian,Maine Coon,0.6278910636901855
+oxford-iiit-pet/images/Persian_56.jpg,Persian,Persian,0.9987918734550476
+oxford-iiit-pet/images/Persian_82.jpg,Persian,Persian,0.9925310015678406
+oxford-iiit-pet/images/Persian_85.jpg,Persian,Persian,0.9775483012199402
+oxford-iiit-pet/images/Persian_90.jpg,Persian,Pomeranian,0.35775354504585266
+oxford-iiit-pet/images/Persian_95.jpg,Persian,Persian,0.9869929552078247
+oxford-iiit-pet/images/Ragdoll_103.jpg,Ragdoll,Abyssinian,0.36107349395751953
+oxford-iiit-pet/images/Ragdoll_121.jpg,Ragdoll,Ragdoll,0.7082685232162476
+oxford-iiit-pet/images/Ragdoll_126.jpg,Ragdoll,Ragdoll,0.9891194105148315
+oxford-iiit-pet/images/Ragdoll_128.jpg,Ragdoll,Ragdoll,0.9966171383857727
+oxford-iiit-pet/images/Ragdoll_131.jpg,Ragdoll,Birman,0.6723295450210571
+oxford-iiit-pet/images/Ragdoll_148.jpg,Ragdoll,Ragdoll,0.9316499829292297
+oxford-iiit-pet/images/Ragdoll_169.jpg,Ragdoll,Birman,0.7166511416435242
+oxford-iiit-pet/images/Ragdoll_172.jpg,Ragdoll,Havanese,0.7779704332351685
+oxford-iiit-pet/images/Ragdoll_178.jpg,Ragdoll,Birman,0.43166083097457886
+oxford-iiit-pet/images/Ragdoll_188.jpg,Ragdoll,Persian,0.8405875563621521
+oxford-iiit-pet/images/Ragdoll_190.jpg,Ragdoll,Ragdoll,0.5444238781929016
+oxford-iiit-pet/images/Ragdoll_192.jpg,Ragdoll,Ragdoll,0.4997241199016571
+oxford-iiit-pet/images/Ragdoll_196.jpg,Ragdoll,Ragdoll,0.5527511835098267
+oxford-iiit-pet/images/Ragdoll_204.jpg,Ragdoll,Birman,0.49391087889671326
+oxford-iiit-pet/images/Ragdoll_227.jpg,Ragdoll,Ragdoll,0.4830062985420227
+oxford-iiit-pet/images/Ragdoll_234.jpg,Ragdoll,Ragdoll,0.9561386704444885
+oxford-iiit-pet/images/Ragdoll_235.jpg,Ragdoll,Birman,0.9709150791168213
+oxford-iiit-pet/images/Ragdoll_252.jpg,Ragdoll,Birman,0.7941969037055969
+oxford-iiit-pet/images/Ragdoll_254.jpg,Ragdoll,Ragdoll,0.8650054335594177
+oxford-iiit-pet/images/Ragdoll_257.jpg,Ragdoll,Birman,0.6846355199813843
+oxford-iiit-pet/images/Ragdoll_258.jpg,Ragdoll,Ragdoll,0.7039254307746887
+oxford-iiit-pet/images/Ragdoll_264.jpg,Ragdoll,Havanese,0.42116788029670715
+oxford-iiit-pet/images/Ragdoll_3.jpg,Ragdoll,Samoyed,0.6885015368461609
+oxford-iiit-pet/images/Ragdoll_40.jpg,Ragdoll,Birman,0.4583228528499603
+oxford-iiit-pet/images/Ragdoll_45.jpg,Ragdoll,Ragdoll,0.41231977939605713
+oxford-iiit-pet/images/Ragdoll_47.jpg,Ragdoll,Persian,0.35376444458961487
+oxford-iiit-pet/images/Ragdoll_57.jpg,Ragdoll,Ragdoll,0.32634487748146057
+oxford-iiit-pet/images/Ragdoll_58.jpg,Ragdoll,Ragdoll,0.4570438861846924
+oxford-iiit-pet/images/Ragdoll_62.jpg,Ragdoll,Persian,0.6690062880516052
+oxford-iiit-pet/images/Ragdoll_69.jpg,Ragdoll,Ragdoll,0.9842839241027832
+oxford-iiit-pet/images/Russian_Blue_100.jpg,Russian Blue,Russian Blue,0.7091618180274963
+oxford-iiit-pet/images/Russian_Blue_101.jpg,Russian Blue,Ragdoll,0.3943614363670349
+oxford-iiit-pet/images/Russian_Blue_103.jpg,Russian Blue,Russian Blue,0.29212111234664917
+oxford-iiit-pet/images/Russian_Blue_109.jpg,Russian Blue,Russian Blue,0.8302513360977173
+oxford-iiit-pet/images/Russian_Blue_112.jpg,Russian Blue,Russian Blue,0.9133251905441284
+oxford-iiit-pet/images/Russian_Blue_113.jpg,Russian Blue,British Shorthair,0.37955203652381897
+oxford-iiit-pet/images/Russian_Blue_12.jpg,Russian Blue,Russian Blue,0.9820737838745117
+oxford-iiit-pet/images/Russian_Blue_130.jpg,Russian Blue,Russian Blue,0.9332252740859985
+oxford-iiit-pet/images/Russian_Blue_157.jpg,Russian Blue,Bombay,0.7269822955131531
+oxford-iiit-pet/images/Russian_Blue_16.jpg,Russian Blue,Russian Blue,0.9551324248313904
+oxford-iiit-pet/images/Russian_Blue_171.jpg,Russian Blue,Russian Blue,0.9893642663955688
+oxford-iiit-pet/images/Russian_Blue_176.jpg,Russian Blue,British Shorthair,0.47888579964637756
+oxford-iiit-pet/images/Russian_Blue_194.jpg,Russian Blue,Russian Blue,0.8998135328292847
+oxford-iiit-pet/images/Russian_Blue_196.jpg,Russian Blue,Russian Blue,0.8314800262451172
+oxford-iiit-pet/images/Russian_Blue_198.jpg,Russian Blue,Russian Blue,0.9775590300559998
+oxford-iiit-pet/images/Russian_Blue_205.jpg,Russian Blue,Russian Blue,0.9704462289810181
+oxford-iiit-pet/images/Russian_Blue_211.jpg,Russian Blue,British Shorthair,0.5459099411964417
+oxford-iiit-pet/images/Russian_Blue_215.jpg,Russian Blue,Russian Blue,0.9547984600067139
+oxford-iiit-pet/images/Russian_Blue_228.jpg,Russian Blue,Egyptian Mau,0.4591616690158844
+oxford-iiit-pet/images/Russian_Blue_236.jpg,Russian Blue,British Shorthair,0.6869485974311829
+oxford-iiit-pet/images/Russian_Blue_24.jpg,Russian Blue,Russian Blue,0.9675910472869873
+oxford-iiit-pet/images/Russian_Blue_263.jpg,Russian Blue,Russian Blue,0.7272214889526367
+oxford-iiit-pet/images/Russian_Blue_264.jpg,Russian Blue,British Shorthair,0.9100079536437988
+oxford-iiit-pet/images/Russian_Blue_27.jpg,Russian Blue,Russian Blue,0.9980850219726562
+oxford-iiit-pet/images/Russian_Blue_67.jpg,Russian Blue,Russian Blue,0.9358497262001038
+oxford-iiit-pet/images/Russian_Blue_68.jpg,Russian Blue,Russian Blue,0.8411961197853088
+oxford-iiit-pet/images/Russian_Blue_72.jpg,Russian Blue,Russian Blue,0.7810230851173401
+oxford-iiit-pet/images/Russian_Blue_74.jpg,Russian Blue,Russian Blue,0.8115153908729553
+oxford-iiit-pet/images/Russian_Blue_82.jpg,Russian Blue,Russian Blue,0.95857173204422
+oxford-iiit-pet/images/Russian_Blue_86.jpg,Russian Blue,Russian Blue,0.9968005418777466
+oxford-iiit-pet/images/Siamese_108.jpg,Siamese,Siamese,0.996847927570343
+oxford-iiit-pet/images/Siamese_111.jpg,Siamese,Birman,0.3742515444755554
+oxford-iiit-pet/images/Siamese_116.jpg,Siamese,Abyssinian,0.6777464151382446
+oxford-iiit-pet/images/Siamese_119.jpg,Siamese,Ragdoll,0.7667284607887268
+oxford-iiit-pet/images/Siamese_131.jpg,Siamese,Siamese,0.9876487851142883
+oxford-iiit-pet/images/Siamese_136.jpg,Siamese,Siamese,0.981143593788147
+oxford-iiit-pet/images/Siamese_142.jpg,Siamese,Ragdoll,0.6566020846366882
+oxford-iiit-pet/images/Siamese_148.jpg,Siamese,Birman,0.8607223629951477
+oxford-iiit-pet/images/Siamese_155.jpg,Siamese,Siamese,0.7926998138427734
+oxford-iiit-pet/images/Siamese_165.jpg,Siamese,Siamese,0.9668749570846558
+oxford-iiit-pet/images/Siamese_169.jpg,Siamese,Siamese,0.9964451193809509
+oxford-iiit-pet/images/Siamese_175.jpg,Siamese,Siamese,0.5261853933334351
+oxford-iiit-pet/images/Siamese_186.jpg,Siamese,Siamese,0.5608793497085571
+oxford-iiit-pet/images/Siamese_187.jpg,Siamese,Siamese,0.9949181079864502
+oxford-iiit-pet/images/Siamese_189.jpg,Siamese,Siamese,0.9952724575996399
+oxford-iiit-pet/images/Siamese_19.jpg,Siamese,Boxer,0.34051641821861267
+oxford-iiit-pet/images/Siamese_208.jpg,Siamese,Siamese,0.4176427721977234
+oxford-iiit-pet/images/Siamese_228.jpg,Siamese,Birman,0.8263961672782898
+oxford-iiit-pet/images/Siamese_44.jpg,Siamese,Siamese,0.5684674978256226
+oxford-iiit-pet/images/Siamese_47.jpg,Siamese,Siamese,0.8954572677612305
+oxford-iiit-pet/images/Siamese_53.jpg,Siamese,Siamese,0.9596154689788818
+oxford-iiit-pet/images/Siamese_54.jpg,Siamese,Siamese,0.4316427707672119
+oxford-iiit-pet/images/Siamese_58.jpg,Siamese,Siamese,0.7490273714065552
+oxford-iiit-pet/images/Siamese_61.jpg,Siamese,Siamese,0.9926031231880188
+oxford-iiit-pet/images/Siamese_84.jpg,Siamese,Siamese,0.9513832926750183
+oxford-iiit-pet/images/Siamese_91.jpg,Siamese,Shiba Inu,0.9650366306304932
+oxford-iiit-pet/images/Siamese_92.jpg,Siamese,Siamese,0.5751858353614807
+oxford-iiit-pet/images/Siamese_93.jpg,Siamese,Siamese,0.9274482727050781
+oxford-iiit-pet/images/Siamese_94.jpg,Siamese,Siamese,0.9011279344558716
+oxford-iiit-pet/images/Siamese_96.jpg,Siamese,Siamese,0.9963365793228149
+oxford-iiit-pet/images/Sphynx_110.jpg,Sphynx,Shiba Inu,0.56913161277771
+oxford-iiit-pet/images/Sphynx_115.jpg,Sphynx,Sphynx,0.7169881463050842
+oxford-iiit-pet/images/Sphynx_121.jpg,Sphynx,Sphynx,0.9578704833984375
+oxford-iiit-pet/images/Sphynx_128.jpg,Sphynx,Sphynx,0.9893955588340759
+oxford-iiit-pet/images/Sphynx_133.jpg,Sphynx,Sphynx,0.9999721050262451
+oxford-iiit-pet/images/Sphynx_134.jpg,Sphynx,Sphynx,0.951643168926239
+oxford-iiit-pet/images/Sphynx_145.jpg,Sphynx,Siamese,0.5836965441703796
+oxford-iiit-pet/images/Sphynx_156.jpg,Sphynx,Sphynx,0.9127204418182373
+oxford-iiit-pet/images/Sphynx_159.jpg,Sphynx,Sphynx,0.9611994624137878
+oxford-iiit-pet/images/Sphynx_170.jpg,Sphynx,Sphynx,0.6636132597923279
+oxford-iiit-pet/images/Sphynx_173.jpg,Sphynx,Chihuahua,0.8890423774719238
+oxford-iiit-pet/images/Sphynx_175.jpg,Sphynx,Sphynx,0.9983720183372498
+oxford-iiit-pet/images/Sphynx_185.jpg,Sphynx,Sphynx,0.9569011330604553
+oxford-iiit-pet/images/Sphynx_212.jpg,Sphynx,Russian Blue,0.6302788257598877
+oxford-iiit-pet/images/Sphynx_213.jpg,Sphynx,Abyssinian,0.8465792536735535
+oxford-iiit-pet/images/Sphynx_231.jpg,Sphynx,Sphynx,0.989105761051178
+oxford-iiit-pet/images/Sphynx_232.jpg,Sphynx,Sphynx,0.8617798089981079
+oxford-iiit-pet/images/Sphynx_245.jpg,Sphynx,Sphynx,0.9999523162841797
+oxford-iiit-pet/images/Sphynx_37.jpg,Sphynx,American Pit Bull Terrier,0.5175328254699707
+oxford-iiit-pet/images/Sphynx_4.jpg,Sphynx,Chihuahua,0.49550527334213257
+oxford-iiit-pet/images/Sphynx_41.jpg,Sphynx,Sphynx,0.9716856479644775
+oxford-iiit-pet/images/Sphynx_65.jpg,Sphynx,Sphynx,0.9998650550842285
+oxford-iiit-pet/images/Sphynx_66.jpg,Sphynx,Sphynx,0.9988836646080017
+oxford-iiit-pet/images/Sphynx_74.jpg,Sphynx,Sphynx,0.7215693593025208
+oxford-iiit-pet/images/Sphynx_8.jpg,Sphynx,Sphynx,0.869803249835968
+oxford-iiit-pet/images/Sphynx_80.jpg,Sphynx,Sphynx,0.9996336698532104
+oxford-iiit-pet/images/Sphynx_85.jpg,Sphynx,Sphynx,0.9718019366264343
+oxford-iiit-pet/images/Sphynx_87.jpg,Sphynx,Sphynx,0.9679038524627686
+oxford-iiit-pet/images/Sphynx_88.jpg,Sphynx,Sphynx,0.8462604880332947
+oxford-iiit-pet/images/Sphynx_94.jpg,Sphynx,Sphynx,0.981410801410675
+oxford-iiit-pet/images/american_bulldog_109.jpg,American Bulldog,American Bulldog,0.938195526599884
+oxford-iiit-pet/images/american_bulldog_134.jpg,American Bulldog,American Bulldog,0.7891393303871155
+oxford-iiit-pet/images/american_bulldog_137.jpg,American Bulldog,Boxer,0.5237212181091309
+oxford-iiit-pet/images/american_bulldog_142.jpg,American Bulldog,American Bulldog,0.9248247146606445
+oxford-iiit-pet/images/american_bulldog_149.jpg,American Bulldog,Japanese Chin,0.5227329134941101
+oxford-iiit-pet/images/american_bulldog_158.jpg,American Bulldog,Sphynx,0.5854243040084839
+oxford-iiit-pet/images/american_bulldog_178.jpg,American Bulldog,Russian Blue,0.2476116120815277
+oxford-iiit-pet/images/american_bulldog_184.jpg,American Bulldog,Russian Blue,0.9267974495887756
+oxford-iiit-pet/images/american_bulldog_191.jpg,American Bulldog,Boxer,0.482683002948761
+oxford-iiit-pet/images/american_bulldog_194.jpg,American Bulldog,American Bulldog,0.9867833852767944
+oxford-iiit-pet/images/american_bulldog_20.jpg,American Bulldog,American Bulldog,0.9803126454353333
+oxford-iiit-pet/images/american_bulldog_24.jpg,American Bulldog,American Bulldog,0.9933132529258728
+oxford-iiit-pet/images/american_bulldog_34.jpg,American Bulldog,American Bulldog,0.6071544289588928
+oxford-iiit-pet/images/american_bulldog_43.jpg,American Bulldog,Staffordshire Bull Terrier,0.598416268825531
+oxford-iiit-pet/images/american_bulldog_49.jpg,American Bulldog,Birman,0.6972378492355347
+oxford-iiit-pet/images/american_bulldog_50.jpg,American Bulldog,American Bulldog,0.9589760899543762
+oxford-iiit-pet/images/american_bulldog_53.jpg,American Bulldog,American Bulldog,0.8022382259368896
+oxford-iiit-pet/images/american_bulldog_67.jpg,American Bulldog,Boxer,0.8191842436790466
+oxford-iiit-pet/images/american_bulldog_74.jpg,American Bulldog,American Bulldog,0.984973669052124
+oxford-iiit-pet/images/american_bulldog_78.jpg,American Bulldog,American Bulldog,0.5092812180519104
+oxford-iiit-pet/images/american_bulldog_8.jpg,American Bulldog,American Bulldog,0.47959232330322266
+oxford-iiit-pet/images/american_bulldog_84.jpg,American Bulldog,American Bulldog,0.9802380800247192
+oxford-iiit-pet/images/american_bulldog_86.jpg,American Bulldog,American Bulldog,0.6082828640937805
+oxford-iiit-pet/images/american_bulldog_87.jpg,American Bulldog,American Bulldog,0.9989961981773376
+oxford-iiit-pet/images/american_bulldog_89.jpg,American Bulldog,American Bulldog,0.7161776423454285
+oxford-iiit-pet/images/american_bulldog_90.jpg,American Bulldog,Staffordshire Bull Terrier,0.2241651564836502
+oxford-iiit-pet/images/american_bulldog_92.jpg,American Bulldog,Chihuahua,0.6212396621704102
+oxford-iiit-pet/images/american_bulldog_94.jpg,American Bulldog,American Bulldog,0.9445487260818481
+oxford-iiit-pet/images/american_bulldog_95.jpg,American Bulldog,American Bulldog,0.377196729183197
+oxford-iiit-pet/images/american_bulldog_98.jpg,American Bulldog,Shiba Inu,0.5340931415557861
+oxford-iiit-pet/images/american_pit_bull_terrier_10.jpg,American Pit Bull Terrier,Beagle,0.37043890357017517
+oxford-iiit-pet/images/american_pit_bull_terrier_118.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.576827883720398
+oxford-iiit-pet/images/american_pit_bull_terrier_12.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.23421113193035126
+oxford-iiit-pet/images/american_pit_bull_terrier_129.jpg,American Pit Bull Terrier,Bombay,0.8348817825317383
+oxford-iiit-pet/images/american_pit_bull_terrier_133.jpg,American Pit Bull Terrier,Havanese,0.6289407014846802
+oxford-iiit-pet/images/american_pit_bull_terrier_137.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.973912239074707
+oxford-iiit-pet/images/american_pit_bull_terrier_14.jpg,American Pit Bull Terrier,Havanese,0.6632965207099915
+oxford-iiit-pet/images/american_pit_bull_terrier_140.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.5969353318214417
+oxford-iiit-pet/images/american_pit_bull_terrier_165.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.9951346516609192
+oxford-iiit-pet/images/american_pit_bull_terrier_167.jpg,American Pit Bull Terrier,Chihuahua,0.4478101432323456
+oxford-iiit-pet/images/american_pit_bull_terrier_175.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9353610873222351
+oxford-iiit-pet/images/american_pit_bull_terrier_176.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.5314622521400452
+oxford-iiit-pet/images/american_pit_bull_terrier_183.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9900012016296387
+oxford-iiit-pet/images/american_pit_bull_terrier_184.jpg,American Pit Bull Terrier,American Bulldog,0.761879563331604
+oxford-iiit-pet/images/american_pit_bull_terrier_185.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.7526981830596924
+oxford-iiit-pet/images/american_pit_bull_terrier_189.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.8597007393836975
+oxford-iiit-pet/images/american_pit_bull_terrier_19.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.4107080399990082
+oxford-iiit-pet/images/american_pit_bull_terrier_26.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.6051883101463318
+oxford-iiit-pet/images/american_pit_bull_terrier_30.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.5388930439949036
+oxford-iiit-pet/images/american_pit_bull_terrier_32.jpg,American Pit Bull Terrier,English Cocker Spaniel,0.27629801630973816
+oxford-iiit-pet/images/american_pit_bull_terrier_40.jpg,American Pit Bull Terrier,American Bulldog,0.4966421127319336
+oxford-iiit-pet/images/american_pit_bull_terrier_42.jpg,American Pit Bull Terrier,German Shorthaired,0.5264057517051697
+oxford-iiit-pet/images/american_pit_bull_terrier_49.jpg,American Pit Bull Terrier,German Shorthaired,0.2771708071231842
+oxford-iiit-pet/images/american_pit_bull_terrier_53.jpg,American Pit Bull Terrier,Beagle,0.5358878374099731
+oxford-iiit-pet/images/american_pit_bull_terrier_74.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.7487382292747498
+oxford-iiit-pet/images/american_pit_bull_terrier_75.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.8862681984901428
+oxford-iiit-pet/images/american_pit_bull_terrier_84.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9985700845718384
+oxford-iiit-pet/images/american_pit_bull_terrier_87.jpg,American Pit Bull Terrier,British Shorthair,0.35846972465515137
+oxford-iiit-pet/images/american_pit_bull_terrier_88.jpg,American Pit Bull Terrier,Chihuahua,0.2500050663948059
+oxford-iiit-pet/images/american_pit_bull_terrier_94.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.47561946511268616
+oxford-iiit-pet/images/basset_hound_1.jpg,Basset Hound,Basset Hound,0.9889938235282898
+oxford-iiit-pet/images/basset_hound_100.jpg,Basset Hound,Basset Hound,0.8164483904838562
+oxford-iiit-pet/images/basset_hound_102.jpg,Basset Hound,Basset Hound,0.9729751944541931
+oxford-iiit-pet/images/basset_hound_105.jpg,Basset Hound,Basset Hound,0.9991181492805481
+oxford-iiit-pet/images/basset_hound_112.jpg,Basset Hound,Basset Hound,0.6763167381286621
+oxford-iiit-pet/images/basset_hound_123.jpg,Basset Hound,Basset Hound,0.516877293586731
+oxford-iiit-pet/images/basset_hound_128.jpg,Basset Hound,Basset Hound,0.9239463806152344
+oxford-iiit-pet/images/basset_hound_13.jpg,Basset Hound,Basset Hound,0.838792085647583
+oxford-iiit-pet/images/basset_hound_142.jpg,Basset Hound,Basset Hound,0.9950770735740662
+oxford-iiit-pet/images/basset_hound_147.jpg,Basset Hound,Basset Hound,0.8427367210388184
+oxford-iiit-pet/images/basset_hound_149.jpg,Basset Hound,Basset Hound,0.9781081080436707
+oxford-iiit-pet/images/basset_hound_151.jpg,Basset Hound,Basset Hound,0.9570174217224121
+oxford-iiit-pet/images/basset_hound_155.jpg,Basset Hound,Basset Hound,0.9959557056427002
+oxford-iiit-pet/images/basset_hound_165.jpg,Basset Hound,Basset Hound,0.8522781133651733
+oxford-iiit-pet/images/basset_hound_175.jpg,Basset Hound,Basset Hound,0.6123983263969421
+oxford-iiit-pet/images/basset_hound_18.jpg,Basset Hound,Basset Hound,0.9968534111976624
+oxford-iiit-pet/images/basset_hound_19.jpg,Basset Hound,Basset Hound,0.9955897331237793
+oxford-iiit-pet/images/basset_hound_23.jpg,Basset Hound,Basset Hound,0.731551468372345
+oxford-iiit-pet/images/basset_hound_25.jpg,Basset Hound,Saint Bernard,0.7830170392990112
+oxford-iiit-pet/images/basset_hound_40.jpg,Basset Hound,Basset Hound,0.7870380282402039
+oxford-iiit-pet/images/basset_hound_45.jpg,Basset Hound,Basset Hound,0.5929027795791626
+oxford-iiit-pet/images/basset_hound_47.jpg,Basset Hound,Basset Hound,0.9957463145256042
+oxford-iiit-pet/images/basset_hound_48.jpg,Basset Hound,Basset Hound,0.9186071157455444
+oxford-iiit-pet/images/basset_hound_5.jpg,Basset Hound,Saint Bernard,0.2950670123100281
+oxford-iiit-pet/images/basset_hound_56.jpg,Basset Hound,Basset Hound,0.8596916198730469
+oxford-iiit-pet/images/basset_hound_59.jpg,Basset Hound,Basset Hound,0.9704848527908325
+oxford-iiit-pet/images/basset_hound_6.jpg,Basset Hound,Basset Hound,0.5142508745193481
+oxford-iiit-pet/images/basset_hound_63.jpg,Basset Hound,Basset Hound,0.69547438621521
+oxford-iiit-pet/images/basset_hound_66.jpg,Basset Hound,Beagle,0.7280389666557312
+oxford-iiit-pet/images/basset_hound_91.jpg,Basset Hound,Basset Hound,0.9063242077827454
+oxford-iiit-pet/images/beagle_100.jpg,Beagle,Basset Hound,0.6679386496543884
+oxford-iiit-pet/images/beagle_103.jpg,Beagle,Saint Bernard,0.8117001056671143
+oxford-iiit-pet/images/beagle_104.jpg,Beagle,Abyssinian,0.5526212453842163
+oxford-iiit-pet/images/beagle_105.jpg,Beagle,Basset Hound,0.31849050521850586
+oxford-iiit-pet/images/beagle_112.jpg,Beagle,Boxer,0.2816448211669922
+oxford-iiit-pet/images/beagle_113.jpg,Beagle,Beagle,0.8001751899719238
+oxford-iiit-pet/images/beagle_115.jpg,Beagle,Basset Hound,0.7445383667945862
+oxford-iiit-pet/images/beagle_123.jpg,Beagle,German Shorthaired,0.8895174860954285
+oxford-iiit-pet/images/beagle_125.jpg,Beagle,Chihuahua,0.40248462557792664
+oxford-iiit-pet/images/beagle_130.jpg,Beagle,German Shorthaired,0.6725326180458069
+oxford-iiit-pet/images/beagle_135.jpg,Beagle,German Shorthaired,0.22329081594944
+oxford-iiit-pet/images/beagle_136.jpg,Beagle,Basset Hound,0.9188265800476074
+oxford-iiit-pet/images/beagle_139.jpg,Beagle,Beagle,0.39810505509376526
+oxford-iiit-pet/images/beagle_150.jpg,Beagle,Beagle,0.9583332538604736
+oxford-iiit-pet/images/beagle_154.jpg,Beagle,Shiba Inu,0.981465220451355
+oxford-iiit-pet/images/beagle_162.jpg,Beagle,Basset Hound,0.5269930958747864
+oxford-iiit-pet/images/beagle_163.jpg,Beagle,Beagle,0.8819886445999146
+oxford-iiit-pet/images/beagle_177.jpg,Beagle,Basset Hound,0.41902390122413635
+oxford-iiit-pet/images/beagle_18.jpg,Beagle,Beagle,0.5304783582687378
+oxford-iiit-pet/images/beagle_188.jpg,Beagle,German Shorthaired,0.4327133893966675
+oxford-iiit-pet/images/beagle_201.jpg,Beagle,Shiba Inu,0.616720974445343
+oxford-iiit-pet/images/beagle_203.jpg,Beagle,Saint Bernard,0.6855477690696716
+oxford-iiit-pet/images/beagle_27.jpg,Beagle,Beagle,0.6574999690055847
+oxford-iiit-pet/images/beagle_35.jpg,Beagle,Beagle,0.8323685526847839
+oxford-iiit-pet/images/beagle_41.jpg,Beagle,Beagle,0.9382654428482056
+oxford-iiit-pet/images/beagle_5.jpg,Beagle,Chihuahua,0.5074556469917297
+oxford-iiit-pet/images/beagle_53.jpg,Beagle,German Shorthaired,0.4549262523651123
+oxford-iiit-pet/images/beagle_69.jpg,Beagle,Basset Hound,0.8938320875167847
+oxford-iiit-pet/images/beagle_7.jpg,Beagle,Beagle,0.8594574332237244
+oxford-iiit-pet/images/beagle_90.jpg,Beagle,Beagle,0.997511625289917
+oxford-iiit-pet/images/boxer_101.jpg,Boxer,Boxer,0.6950875520706177
+oxford-iiit-pet/images/boxer_103.jpg,Boxer,Boxer,0.42274513840675354
+oxford-iiit-pet/images/boxer_111.jpg,Boxer,Boxer,0.9533061385154724
+oxford-iiit-pet/images/boxer_117.jpg,Boxer,Boxer,0.9591504335403442
+oxford-iiit-pet/images/boxer_118.jpg,Boxer,American Pit Bull Terrier,0.8041526079177856
+oxford-iiit-pet/images/boxer_121.jpg,Boxer,Boxer,0.5491705536842346
+oxford-iiit-pet/images/boxer_124.jpg,Boxer,Shiba Inu,0.6282246112823486
+oxford-iiit-pet/images/boxer_127.jpg,Boxer,Boxer,0.6407402753829956
+oxford-iiit-pet/images/boxer_133.jpg,Boxer,American Pit Bull Terrier,0.4984041750431061
+oxford-iiit-pet/images/boxer_143.jpg,Boxer,Boxer,0.9383164048194885
+oxford-iiit-pet/images/boxer_16.jpg,Boxer,Boxer,0.9702722430229187
+oxford-iiit-pet/images/boxer_166.jpg,Boxer,Boxer,0.6734883785247803
+oxford-iiit-pet/images/boxer_17.jpg,Boxer,Beagle,0.4053252935409546
+oxford-iiit-pet/images/boxer_174.jpg,Boxer,Boxer,0.9762296676635742
+oxford-iiit-pet/images/boxer_181.jpg,Boxer,Newfoundland,0.54336017370224
+oxford-iiit-pet/images/boxer_199.jpg,Boxer,Boxer,0.8141679763793945
+oxford-iiit-pet/images/boxer_22.jpg,Boxer,Boxer,0.4927978515625
+oxford-iiit-pet/images/boxer_24.jpg,Boxer,Boxer,0.949162483215332
+oxford-iiit-pet/images/boxer_3.jpg,Boxer,Miniature Pinscher,0.6820500493049622
+oxford-iiit-pet/images/boxer_31.jpg,Boxer,Boxer,0.9815430045127869
+oxford-iiit-pet/images/boxer_35.jpg,Boxer,Boxer,0.8514030575752258
+oxford-iiit-pet/images/boxer_36.jpg,Boxer,German Shorthaired,0.9467129111289978
+oxford-iiit-pet/images/boxer_39.jpg,Boxer,Boxer,0.6524719595909119
+oxford-iiit-pet/images/boxer_45.jpg,Boxer,Boxer,0.7822984457015991
+oxford-iiit-pet/images/boxer_49.jpg,Boxer,Boxer,0.8021193742752075
+oxford-iiit-pet/images/boxer_51.jpg,Boxer,Boxer,0.9631532430648804
+oxford-iiit-pet/images/boxer_57.jpg,Boxer,Boxer,0.6051291227340698
+oxford-iiit-pet/images/boxer_59.jpg,Boxer,American Bulldog,0.9995457530021667
+oxford-iiit-pet/images/boxer_6.jpg,Boxer,Boxer,0.9981039762496948
+oxford-iiit-pet/images/boxer_86.jpg,Boxer,Boxer,0.9941180944442749
+oxford-iiit-pet/images/chihuahua_11.jpg,Chihuahua,Chihuahua,0.9928420782089233
+oxford-iiit-pet/images/chihuahua_111.jpg,Chihuahua,Chihuahua,0.7223622798919678
+oxford-iiit-pet/images/chihuahua_131.jpg,Chihuahua,Chihuahua,0.8844658136367798
+oxford-iiit-pet/images/chihuahua_137.jpg,Chihuahua,Chihuahua,0.7231875061988831
+oxford-iiit-pet/images/chihuahua_14.jpg,Chihuahua,Chihuahua,0.6217011213302612
+oxford-iiit-pet/images/chihuahua_147.jpg,Chihuahua,American Pit Bull Terrier,0.4822261929512024
+oxford-iiit-pet/images/chihuahua_157.jpg,Chihuahua,Chihuahua,0.9315117597579956
+oxford-iiit-pet/images/chihuahua_163.jpg,Chihuahua,Chihuahua,0.9902405738830566
+oxford-iiit-pet/images/chihuahua_164.jpg,Chihuahua,American Bulldog,0.36103355884552
+oxford-iiit-pet/images/chihuahua_165.jpg,Chihuahua,Chihuahua,0.7872390151023865
+oxford-iiit-pet/images/chihuahua_168.jpg,Chihuahua,Chihuahua,0.8663774728775024
+oxford-iiit-pet/images/chihuahua_172.jpg,Chihuahua,Miniature Pinscher,0.7869056463241577
+oxford-iiit-pet/images/chihuahua_173.jpg,Chihuahua,Chihuahua,0.9559875130653381
+oxford-iiit-pet/images/chihuahua_175.jpg,Chihuahua,Shiba Inu,0.4792470932006836
+oxford-iiit-pet/images/chihuahua_177.jpg,Chihuahua,Miniature Pinscher,0.9936593174934387
+oxford-iiit-pet/images/chihuahua_179.jpg,Chihuahua,Miniature Pinscher,0.7831010222434998
+oxford-iiit-pet/images/chihuahua_182.jpg,Chihuahua,Chihuahua,0.6255846619606018
+oxford-iiit-pet/images/chihuahua_188.jpg,Chihuahua,Chihuahua,0.44668781757354736
+oxford-iiit-pet/images/chihuahua_190.jpg,Chihuahua,Abyssinian,0.6441820859909058
+oxford-iiit-pet/images/chihuahua_196.jpg,Chihuahua,Leonberger,0.1775560975074768
+oxford-iiit-pet/images/chihuahua_23.jpg,Chihuahua,American Pit Bull Terrier,0.4863281548023224
+oxford-iiit-pet/images/chihuahua_30.jpg,Chihuahua,Chihuahua,0.808526337146759
+oxford-iiit-pet/images/chihuahua_34.jpg,Chihuahua,Chihuahua,0.5718872547149658
+oxford-iiit-pet/images/chihuahua_47.jpg,Chihuahua,Chihuahua,0.9972763657569885
+oxford-iiit-pet/images/chihuahua_56.jpg,Chihuahua,Sphynx,0.9172481894493103
+oxford-iiit-pet/images/chihuahua_57.jpg,Chihuahua,Chihuahua,0.8133007884025574
+oxford-iiit-pet/images/chihuahua_60.jpg,Chihuahua,Shiba Inu,0.5479875206947327
+oxford-iiit-pet/images/chihuahua_61.jpg,Chihuahua,Boxer,0.8711729645729065
+oxford-iiit-pet/images/chihuahua_8.jpg,Chihuahua,Chihuahua,0.7608115673065186
+oxford-iiit-pet/images/chihuahua_90.jpg,Chihuahua,American Pit Bull Terrier,0.42052164673805237
+oxford-iiit-pet/images/english_cocker_spaniel_104.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9872754216194153
+oxford-iiit-pet/images/english_cocker_spaniel_11.jpg,English Cocker Spaniel,Havanese,0.5619796514511108
+oxford-iiit-pet/images/english_cocker_spaniel_117.jpg,English Cocker Spaniel,English Cocker Spaniel,0.38868555426597595
+oxford-iiit-pet/images/english_cocker_spaniel_121.jpg,English Cocker Spaniel,English Setter,0.8186275362968445
+oxford-iiit-pet/images/english_cocker_spaniel_136.jpg,English Cocker Spaniel,English Cocker Spaniel,0.3884134590625763
+oxford-iiit-pet/images/english_cocker_spaniel_150.jpg,English Cocker Spaniel,English Cocker Spaniel,0.7490012049674988
+oxford-iiit-pet/images/english_cocker_spaniel_157.jpg,English Cocker Spaniel,English Cocker Spaniel,0.532133162021637
+oxford-iiit-pet/images/english_cocker_spaniel_19.jpg,English Cocker Spaniel,English Cocker Spaniel,0.601920485496521
+oxford-iiit-pet/images/english_cocker_spaniel_193.jpg,English Cocker Spaniel,Yorkshire Terrier,0.7171754240989685
+oxford-iiit-pet/images/english_cocker_spaniel_195.jpg,English Cocker Spaniel,Havanese,0.8778840899467468
+oxford-iiit-pet/images/english_cocker_spaniel_197.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9765712022781372
+oxford-iiit-pet/images/english_cocker_spaniel_22.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9886732697486877
+oxford-iiit-pet/images/english_cocker_spaniel_26.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9974300265312195
+oxford-iiit-pet/images/english_cocker_spaniel_27.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9526281356811523
+oxford-iiit-pet/images/english_cocker_spaniel_38.jpg,English Cocker Spaniel,Havanese,0.987888514995575
+oxford-iiit-pet/images/english_cocker_spaniel_39.jpg,English Cocker Spaniel,English Cocker Spaniel,0.8893762230873108
+oxford-iiit-pet/images/english_cocker_spaniel_41.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9920976161956787
+oxford-iiit-pet/images/english_cocker_spaniel_45.jpg,English Cocker Spaniel,Havanese,0.6971432566642761
+oxford-iiit-pet/images/english_cocker_spaniel_47.jpg,English Cocker Spaniel,Havanese,0.5846064686775208
+oxford-iiit-pet/images/english_cocker_spaniel_51.jpg,English Cocker Spaniel,Yorkshire Terrier,0.631464421749115
+oxford-iiit-pet/images/english_cocker_spaniel_54.jpg,English Cocker Spaniel,Newfoundland,0.9226093888282776
+oxford-iiit-pet/images/english_cocker_spaniel_60.jpg,English Cocker Spaniel,English Cocker Spaniel,0.4713830351829529
+oxford-iiit-pet/images/english_cocker_spaniel_7.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9725138545036316
+oxford-iiit-pet/images/english_cocker_spaniel_71.jpg,English Cocker Spaniel,English Cocker Spaniel,0.6964114904403687
+oxford-iiit-pet/images/english_cocker_spaniel_74.jpg,English Cocker Spaniel,English Setter,0.18948882818222046
+oxford-iiit-pet/images/english_cocker_spaniel_8.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9964774250984192
+oxford-iiit-pet/images/english_cocker_spaniel_87.jpg,English Cocker Spaniel,English Cocker Spaniel,0.7260663509368896
+oxford-iiit-pet/images/english_cocker_spaniel_90.jpg,English Cocker Spaniel,English Cocker Spaniel,0.6114276051521301
+oxford-iiit-pet/images/english_cocker_spaniel_94.jpg,English Cocker Spaniel,English Cocker Spaniel,0.9917755126953125
+oxford-iiit-pet/images/english_cocker_spaniel_98.jpg,English Cocker Spaniel,English Cocker Spaniel,0.568156898021698
+oxford-iiit-pet/images/english_setter_107.jpg,English Setter,Great Pyrenees,0.4309769570827484
+oxford-iiit-pet/images/english_setter_109.jpg,English Setter,Havanese,0.2868998646736145
+oxford-iiit-pet/images/english_setter_11.jpg,English Setter,English Setter,0.9165090918540955
+oxford-iiit-pet/images/english_setter_110.jpg,English Setter,Egyptian Mau,0.3924861550331116
+oxford-iiit-pet/images/english_setter_115.jpg,English Setter,Newfoundland,0.5332816243171692
+oxford-iiit-pet/images/english_setter_116.jpg,English Setter,American Bulldog,0.4881659150123596
+oxford-iiit-pet/images/english_setter_120.jpg,English Setter,Great Pyrenees,0.42246803641319275
+oxford-iiit-pet/images/english_setter_14.jpg,English Setter,English Setter,0.9696393609046936
+oxford-iiit-pet/images/english_setter_150.jpg,English Setter,English Setter,0.9831222891807556
+oxford-iiit-pet/images/english_setter_163.jpg,English Setter,English Setter,0.8955593109130859
+oxford-iiit-pet/images/english_setter_178.jpg,English Setter,English Setter,0.9357295632362366
+oxford-iiit-pet/images/english_setter_18.jpg,English Setter,English Cocker Spaniel,0.8825782537460327
+oxford-iiit-pet/images/english_setter_19.jpg,English Setter,English Setter,0.9376532435417175
+oxford-iiit-pet/images/english_setter_196.jpg,English Setter,English Cocker Spaniel,0.6017320156097412
+oxford-iiit-pet/images/english_setter_2.jpg,English Setter,English Cocker Spaniel,0.37364280223846436
+oxford-iiit-pet/images/english_setter_24.jpg,English Setter,English Setter,0.9840406179428101
+oxford-iiit-pet/images/english_setter_27.jpg,English Setter,English Cocker Spaniel,0.907055675983429
+oxford-iiit-pet/images/english_setter_33.jpg,English Setter,English Setter,0.7609809637069702
+oxford-iiit-pet/images/english_setter_37.jpg,English Setter,English Setter,0.7144656777381897
+oxford-iiit-pet/images/english_setter_41.jpg,English Setter,English Setter,0.9469048380851746
+oxford-iiit-pet/images/english_setter_50.jpg,English Setter,English Cocker Spaniel,0.8938661217689514
+oxford-iiit-pet/images/english_setter_54.jpg,English Setter,English Setter,0.945220410823822
+oxford-iiit-pet/images/english_setter_58.jpg,English Setter,English Setter,0.9623753428459167
+oxford-iiit-pet/images/english_setter_6.jpg,English Setter,Wheaten Terrier,0.6174609661102295
+oxford-iiit-pet/images/english_setter_67.jpg,English Setter,English Setter,0.844533383846283
+oxford-iiit-pet/images/english_setter_75.jpg,English Setter,English Setter,0.7908012866973877
+oxford-iiit-pet/images/english_setter_80.jpg,English Setter,English Setter,0.9007461071014404
+oxford-iiit-pet/images/english_setter_87.jpg,English Setter,American Bulldog,0.8110119700431824
+oxford-iiit-pet/images/english_setter_89.jpg,English Setter,English Setter,0.9613046646118164
+oxford-iiit-pet/images/english_setter_99.jpg,English Setter,English Setter,0.4349808692932129
+oxford-iiit-pet/images/german_shorthaired_102.jpg,German Shorthaired,German Shorthaired,0.9996863603591919
+oxford-iiit-pet/images/german_shorthaired_117.jpg,German Shorthaired,English Setter,0.9193918108940125
+oxford-iiit-pet/images/german_shorthaired_123.jpg,German Shorthaired,American Pit Bull Terrier,0.4153021574020386
+oxford-iiit-pet/images/german_shorthaired_128.jpg,German Shorthaired,Wheaten Terrier,0.5108543038368225
+oxford-iiit-pet/images/german_shorthaired_15.jpg,German Shorthaired,German Shorthaired,0.9985577464103699
+oxford-iiit-pet/images/german_shorthaired_157.jpg,German Shorthaired,German Shorthaired,0.9997281432151794
+oxford-iiit-pet/images/german_shorthaired_158.jpg,German Shorthaired,German Shorthaired,0.9999945163726807
+oxford-iiit-pet/images/german_shorthaired_160.jpg,German Shorthaired,Basset Hound,0.3207257390022278
+oxford-iiit-pet/images/german_shorthaired_162.jpg,German Shorthaired,German Shorthaired,0.9798648357391357
+oxford-iiit-pet/images/german_shorthaired_165.jpg,German Shorthaired,German Shorthaired,0.9920525550842285
+oxford-iiit-pet/images/german_shorthaired_172.jpg,German Shorthaired,German Shorthaired,0.9874792098999023
+oxford-iiit-pet/images/german_shorthaired_175.jpg,German Shorthaired,English Setter,0.8432878255844116
+oxford-iiit-pet/images/german_shorthaired_176.jpg,German Shorthaired,Sphynx,0.7974444031715393
+oxford-iiit-pet/images/german_shorthaired_177.jpg,German Shorthaired,German Shorthaired,0.9996949434280396
+oxford-iiit-pet/images/german_shorthaired_187.jpg,German Shorthaired,German Shorthaired,0.9985619187355042
+oxford-iiit-pet/images/german_shorthaired_23.jpg,German Shorthaired,German Shorthaired,0.9665433168411255
+oxford-iiit-pet/images/german_shorthaired_30.jpg,German Shorthaired,German Shorthaired,0.996174156665802
+oxford-iiit-pet/images/german_shorthaired_33.jpg,German Shorthaired,German Shorthaired,0.9799779057502747
+oxford-iiit-pet/images/german_shorthaired_44.jpg,German Shorthaired,Havanese,0.8574644923210144
+oxford-iiit-pet/images/german_shorthaired_50.jpg,German Shorthaired,German Shorthaired,0.842244029045105
+oxford-iiit-pet/images/german_shorthaired_52.jpg,German Shorthaired,German Shorthaired,0.9999932050704956
+oxford-iiit-pet/images/german_shorthaired_57.jpg,German Shorthaired,German Shorthaired,0.9389870762825012
+oxford-iiit-pet/images/german_shorthaired_67.jpg,German Shorthaired,German Shorthaired,0.9975062012672424
+oxford-iiit-pet/images/german_shorthaired_70.jpg,German Shorthaired,German Shorthaired,0.9997698664665222
+oxford-iiit-pet/images/german_shorthaired_72.jpg,German Shorthaired,German Shorthaired,0.8952797055244446
+oxford-iiit-pet/images/german_shorthaired_76.jpg,German Shorthaired,German Shorthaired,0.999974250793457
+oxford-iiit-pet/images/german_shorthaired_77.jpg,German Shorthaired,German Shorthaired,0.9994717240333557
+oxford-iiit-pet/images/german_shorthaired_88.jpg,German Shorthaired,German Shorthaired,0.9652230739593506
+oxford-iiit-pet/images/german_shorthaired_96.jpg,German Shorthaired,German Shorthaired,0.999818742275238
+oxford-iiit-pet/images/german_shorthaired_99.jpg,German Shorthaired,German Shorthaired,0.9983697533607483
+oxford-iiit-pet/images/great_pyrenees_101.jpg,Great Pyrenees,Great Pyrenees,0.9994785189628601
+oxford-iiit-pet/images/great_pyrenees_112.jpg,Great Pyrenees,Great Pyrenees,0.999427318572998
+oxford-iiit-pet/images/great_pyrenees_113.jpg,Great Pyrenees,Samoyed,0.5303489565849304
+oxford-iiit-pet/images/great_pyrenees_117.jpg,Great Pyrenees,Samoyed,0.6458086967468262
+oxford-iiit-pet/images/great_pyrenees_119.jpg,Great Pyrenees,Great Pyrenees,0.7522139549255371
+oxford-iiit-pet/images/great_pyrenees_129.jpg,Great Pyrenees,Havanese,0.8374338150024414
+oxford-iiit-pet/images/great_pyrenees_135.jpg,Great Pyrenees,Samoyed,0.9285342693328857
+oxford-iiit-pet/images/great_pyrenees_14.jpg,Great Pyrenees,Great Pyrenees,0.5803325176239014
+oxford-iiit-pet/images/great_pyrenees_140.jpg,Great Pyrenees,American Bulldog,0.5103893876075745
+oxford-iiit-pet/images/great_pyrenees_144.jpg,Great Pyrenees,Abyssinian,0.5828143358230591
+oxford-iiit-pet/images/great_pyrenees_15.jpg,Great Pyrenees,Great Pyrenees,0.9963390827178955
+oxford-iiit-pet/images/great_pyrenees_158.jpg,Great Pyrenees,Wheaten Terrier,0.17722338438034058
+oxford-iiit-pet/images/great_pyrenees_159.jpg,Great Pyrenees,Great Pyrenees,0.9924817681312561
+oxford-iiit-pet/images/great_pyrenees_160.jpg,Great Pyrenees,Great Pyrenees,0.575082540512085
+oxford-iiit-pet/images/great_pyrenees_180.jpg,Great Pyrenees,Great Pyrenees,0.9939354062080383
+oxford-iiit-pet/images/great_pyrenees_183.jpg,Great Pyrenees,Samoyed,0.45310160517692566
+oxford-iiit-pet/images/great_pyrenees_188.jpg,Great Pyrenees,Great Pyrenees,0.8750807642936707
+oxford-iiit-pet/images/great_pyrenees_30.jpg,Great Pyrenees,Samoyed,0.7590579986572266
+oxford-iiit-pet/images/great_pyrenees_39.jpg,Great Pyrenees,Havanese,0.6216938495635986
+oxford-iiit-pet/images/great_pyrenees_43.jpg,Great Pyrenees,Havanese,0.9222849011421204
+oxford-iiit-pet/images/great_pyrenees_49.jpg,Great Pyrenees,Great Pyrenees,0.9817028641700745
+oxford-iiit-pet/images/great_pyrenees_51.jpg,Great Pyrenees,Great Pyrenees,0.9608335494995117
+oxford-iiit-pet/images/great_pyrenees_53.jpg,Great Pyrenees,Birman,0.48338353633880615
+oxford-iiit-pet/images/great_pyrenees_56.jpg,Great Pyrenees,Great Pyrenees,0.9887115955352783
+oxford-iiit-pet/images/great_pyrenees_65.jpg,Great Pyrenees,Great Pyrenees,0.9702581167221069
+oxford-iiit-pet/images/great_pyrenees_70.jpg,Great Pyrenees,Great Pyrenees,0.998908519744873
+oxford-iiit-pet/images/great_pyrenees_76.jpg,Great Pyrenees,Great Pyrenees,0.947657585144043
+oxford-iiit-pet/images/great_pyrenees_79.jpg,Great Pyrenees,Great Pyrenees,0.6644194722175598
+oxford-iiit-pet/images/great_pyrenees_80.jpg,Great Pyrenees,Great Pyrenees,0.9480268359184265
+oxford-iiit-pet/images/great_pyrenees_9.jpg,Great Pyrenees,Great Pyrenees,0.9953255653381348
+oxford-iiit-pet/images/havanese_1.jpg,Havanese,Havanese,0.9853492379188538
+oxford-iiit-pet/images/havanese_106.jpg,Havanese,Havanese,0.5205807089805603
+oxford-iiit-pet/images/havanese_108.jpg,Havanese,English Setter,0.963494598865509
+oxford-iiit-pet/images/havanese_109.jpg,Havanese,English Setter,0.7373407483100891
+oxford-iiit-pet/images/havanese_113.jpg,Havanese,Havanese,0.9771878123283386
+oxford-iiit-pet/images/havanese_115.jpg,Havanese,Havanese,0.9929773211479187
+oxford-iiit-pet/images/havanese_133.jpg,Havanese,Havanese,0.9753915071487427
+oxford-iiit-pet/images/havanese_135.jpg,Havanese,Havanese,0.9999771118164062
+oxford-iiit-pet/images/havanese_137.jpg,Havanese,Havanese,0.8646458983421326
+oxford-iiit-pet/images/havanese_139.jpg,Havanese,Havanese,0.9995298385620117
+oxford-iiit-pet/images/havanese_142.jpg,Havanese,Havanese,0.9971510767936707
+oxford-iiit-pet/images/havanese_149.jpg,Havanese,Havanese,0.8202913999557495
+oxford-iiit-pet/images/havanese_151.jpg,Havanese,Staffordshire Bull Terrier,0.6253337264060974
+oxford-iiit-pet/images/havanese_154.jpg,Havanese,Pomeranian,0.6953271627426147
+oxford-iiit-pet/images/havanese_168.jpg,Havanese,Havanese,0.9996883869171143
+oxford-iiit-pet/images/havanese_175.jpg,Havanese,Havanese,0.9945042133331299
+oxford-iiit-pet/images/havanese_178.jpg,Havanese,Havanese,0.9883025288581848
+oxford-iiit-pet/images/havanese_18.jpg,Havanese,Havanese,0.4406569302082062
+oxford-iiit-pet/images/havanese_180.jpg,Havanese,Havanese,0.9709888696670532
+oxford-iiit-pet/images/havanese_194.jpg,Havanese,Havanese,0.9959755539894104
+oxford-iiit-pet/images/havanese_195.jpg,Havanese,Havanese,0.9887585639953613
+oxford-iiit-pet/images/havanese_45.jpg,Havanese,Havanese,0.9380358457565308
+oxford-iiit-pet/images/havanese_51.jpg,Havanese,Havanese,0.9999827146530151
+oxford-iiit-pet/images/havanese_6.jpg,Havanese,Havanese,0.8982629179954529
+oxford-iiit-pet/images/havanese_73.jpg,Havanese,Havanese,0.9438871145248413
+oxford-iiit-pet/images/havanese_76.jpg,Havanese,Havanese,0.9997430443763733
+oxford-iiit-pet/images/havanese_78.jpg,Havanese,Havanese,0.9825198650360107
+oxford-iiit-pet/images/havanese_93.jpg,Havanese,Havanese,0.9931031465530396
+oxford-iiit-pet/images/havanese_96.jpg,Havanese,Havanese,0.9671977758407593
+oxford-iiit-pet/images/havanese_98.jpg,Havanese,Havanese,0.9998681545257568
+oxford-iiit-pet/images/japanese_chin_102.jpg,Japanese Chin,Japanese Chin,0.9997139573097229
+oxford-iiit-pet/images/japanese_chin_105.jpg,Japanese Chin,Beagle,0.6600406765937805
+oxford-iiit-pet/images/japanese_chin_115.jpg,Japanese Chin,Japanese Chin,0.9672060608863831
+oxford-iiit-pet/images/japanese_chin_117.jpg,Japanese Chin,Japanese Chin,0.9982615113258362
+oxford-iiit-pet/images/japanese_chin_123.jpg,Japanese Chin,Japanese Chin,0.9879117012023926
+oxford-iiit-pet/images/japanese_chin_138.jpg,Japanese Chin,Japanese Chin,0.9900357723236084
+oxford-iiit-pet/images/japanese_chin_142.jpg,Japanese Chin,Havanese,0.6403297781944275
+oxford-iiit-pet/images/japanese_chin_144.jpg,Japanese Chin,Japanese Chin,0.9937739372253418
+oxford-iiit-pet/images/japanese_chin_146.jpg,Japanese Chin,English Cocker Spaniel,0.5077239274978638
+oxford-iiit-pet/images/japanese_chin_147.jpg,Japanese Chin,Japanese Chin,0.8810055255889893
+oxford-iiit-pet/images/japanese_chin_160.jpg,Japanese Chin,Japanese Chin,0.9996531009674072
+oxford-iiit-pet/images/japanese_chin_172.jpg,Japanese Chin,Japanese Chin,0.5595638751983643
+oxford-iiit-pet/images/japanese_chin_175.jpg,Japanese Chin,Pug,0.27662840485572815
+oxford-iiit-pet/images/japanese_chin_176.jpg,Japanese Chin,Japanese Chin,0.8471791744232178
+oxford-iiit-pet/images/japanese_chin_180.jpg,Japanese Chin,Japanese Chin,0.6116958856582642
+oxford-iiit-pet/images/japanese_chin_191.jpg,Japanese Chin,Japanese Chin,0.9996474981307983
+oxford-iiit-pet/images/japanese_chin_192.jpg,Japanese Chin,Japanese Chin,0.9547143578529358
+oxford-iiit-pet/images/japanese_chin_197.jpg,Japanese Chin,Japanese Chin,0.49052688479423523
+oxford-iiit-pet/images/japanese_chin_23.jpg,Japanese Chin,Japanese Chin,0.990549623966217
+oxford-iiit-pet/images/japanese_chin_29.jpg,Japanese Chin,Basset Hound,0.7219523191452026
+oxford-iiit-pet/images/japanese_chin_30.jpg,Japanese Chin,Japanese Chin,0.9950624108314514
+oxford-iiit-pet/images/japanese_chin_34.jpg,Japanese Chin,Saint Bernard,0.7716418504714966
+oxford-iiit-pet/images/japanese_chin_45.jpg,Japanese Chin,Havanese,0.6604613661766052
+oxford-iiit-pet/images/japanese_chin_55.jpg,Japanese Chin,Japanese Chin,0.9957118034362793
+oxford-iiit-pet/images/japanese_chin_67.jpg,Japanese Chin,Yorkshire Terrier,0.3170571029186249
+oxford-iiit-pet/images/japanese_chin_75.jpg,Japanese Chin,Japanese Chin,0.9992331266403198
+oxford-iiit-pet/images/japanese_chin_76.jpg,Japanese Chin,Japanese Chin,0.7420525550842285
+oxford-iiit-pet/images/japanese_chin_89.jpg,Japanese Chin,Wheaten Terrier,0.8031975626945496
+oxford-iiit-pet/images/japanese_chin_92.jpg,Japanese Chin,Japanese Chin,0.846256673336029
+oxford-iiit-pet/images/japanese_chin_97.jpg,Japanese Chin,Havanese,0.997418999671936
+oxford-iiit-pet/images/keeshond_107.jpg,Keeshond,Keeshond,0.9705862402915955
+oxford-iiit-pet/images/keeshond_114.jpg,Keeshond,Keeshond,0.9694693684577942
+oxford-iiit-pet/images/keeshond_115.jpg,Keeshond,Keeshond,0.9980508089065552
+oxford-iiit-pet/images/keeshond_119.jpg,Keeshond,Keeshond,0.9663910865783691
+oxford-iiit-pet/images/keeshond_120.jpg,Keeshond,Keeshond,0.9793238639831543
+oxford-iiit-pet/images/keeshond_125.jpg,Keeshond,Keeshond,0.9967426657676697
+oxford-iiit-pet/images/keeshond_127.jpg,Keeshond,Keeshond,0.9912084341049194
+oxford-iiit-pet/images/keeshond_129.jpg,Keeshond,Keeshond,0.9857991933822632
+oxford-iiit-pet/images/keeshond_132.jpg,Keeshond,Keeshond,0.9932032823562622
+oxford-iiit-pet/images/keeshond_145.jpg,Keeshond,Keeshond,0.2660181522369385
+oxford-iiit-pet/images/keeshond_157.jpg,Keeshond,Keeshond,0.761253297328949
+oxford-iiit-pet/images/keeshond_160.jpg,Keeshond,Keeshond,0.9946079254150391
+oxford-iiit-pet/images/keeshond_166.jpg,Keeshond,Russian Blue,0.3988136351108551
+oxford-iiit-pet/images/keeshond_17.jpg,Keeshond,Persian,0.3700929284095764
+oxford-iiit-pet/images/keeshond_171.jpg,Keeshond,Keeshond,0.9954774975776672
+oxford-iiit-pet/images/keeshond_177.jpg,Keeshond,Persian,0.910454273223877
+oxford-iiit-pet/images/keeshond_187.jpg,Keeshond,Havanese,0.655774712562561
+oxford-iiit-pet/images/keeshond_193.jpg,Keeshond,Keeshond,0.6313408017158508
+oxford-iiit-pet/images/keeshond_200.jpg,Keeshond,Pomeranian,0.7533948421478271
+oxford-iiit-pet/images/keeshond_24.jpg,Keeshond,Havanese,0.9509081244468689
+oxford-iiit-pet/images/keeshond_26.jpg,Keeshond,Havanese,0.9614060521125793
+oxford-iiit-pet/images/keeshond_31.jpg,Keeshond,Great Pyrenees,0.5050303339958191
+oxford-iiit-pet/images/keeshond_49.jpg,Keeshond,Keeshond,0.9493927955627441
+oxford-iiit-pet/images/keeshond_50.jpg,Keeshond,Samoyed,0.5092759728431702
+oxford-iiit-pet/images/keeshond_55.jpg,Keeshond,Keeshond,0.9997380375862122
+oxford-iiit-pet/images/keeshond_6.jpg,Keeshond,Keeshond,0.9665781259536743
+oxford-iiit-pet/images/keeshond_61.jpg,Keeshond,Havanese,0.5207256078720093
+oxford-iiit-pet/images/keeshond_63.jpg,Keeshond,Havanese,0.7772221565246582
+oxford-iiit-pet/images/keeshond_68.jpg,Keeshond,Keeshond,0.8774648904800415
+oxford-iiit-pet/images/keeshond_82.jpg,Keeshond,Keeshond,0.983660101890564
+oxford-iiit-pet/images/leonberger_102.jpg,Leonberger,Leonberger,0.5017030239105225
+oxford-iiit-pet/images/leonberger_105.jpg,Leonberger,Maine Coon,0.6436589360237122
+oxford-iiit-pet/images/leonberger_108.jpg,Leonberger,Leonberger,0.988364577293396
+oxford-iiit-pet/images/leonberger_112.jpg,Leonberger,Leonberger,0.9999963045120239
+oxford-iiit-pet/images/leonberger_113.jpg,Leonberger,Leonberger,0.9989680051803589
+oxford-iiit-pet/images/leonberger_118.jpg,Leonberger,Leonberger,0.998172402381897
+oxford-iiit-pet/images/leonberger_121.jpg,Leonberger,Leonberger,0.9998742341995239
+oxford-iiit-pet/images/leonberger_137.jpg,Leonberger,Leonberger,0.9999262094497681
+oxford-iiit-pet/images/leonberger_139.jpg,Leonberger,Leonberger,0.9999815225601196
+oxford-iiit-pet/images/leonberger_140.jpg,Leonberger,Leonberger,0.8158528804779053
+oxford-iiit-pet/images/leonberger_142.jpg,Leonberger,Leonberger,0.9965217113494873
+oxford-iiit-pet/images/leonberger_144.jpg,Leonberger,Leonberger,0.9890568852424622
+oxford-iiit-pet/images/leonberger_149.jpg,Leonberger,Leonberger,0.9979623556137085
+oxford-iiit-pet/images/leonberger_15.jpg,Leonberger,Boxer,0.581485390663147
+oxford-iiit-pet/images/leonberger_157.jpg,Leonberger,English Setter,0.47722235321998596
+oxford-iiit-pet/images/leonberger_173.jpg,Leonberger,Leonberger,0.9496276378631592
+oxford-iiit-pet/images/leonberger_184.jpg,Leonberger,Leonberger,0.9984928369522095
+oxford-iiit-pet/images/leonberger_185.jpg,Leonberger,Pomeranian,0.8934412002563477
+oxford-iiit-pet/images/leonberger_187.jpg,Leonberger,Leonberger,0.9707884192466736
+oxford-iiit-pet/images/leonberger_199.jpg,Leonberger,Leonberger,0.9999692440032959
+oxford-iiit-pet/images/leonberger_200.jpg,Leonberger,Leonberger,0.9989001750946045
+oxford-iiit-pet/images/leonberger_23.jpg,Leonberger,Newfoundland,0.7248875498771667
+oxford-iiit-pet/images/leonberger_25.jpg,Leonberger,Leonberger,0.7258242964744568
+oxford-iiit-pet/images/leonberger_37.jpg,Leonberger,Leonberger,0.9937168955802917
+oxford-iiit-pet/images/leonberger_38.jpg,Leonberger,Leonberger,0.9756999015808105
+oxford-iiit-pet/images/leonberger_41.jpg,Leonberger,Leonberger,0.9769898653030396
+oxford-iiit-pet/images/leonberger_47.jpg,Leonberger,English Cocker Spaniel,0.810714602470398
+oxford-iiit-pet/images/leonberger_6.jpg,Leonberger,Leonberger,0.9884936213493347
+oxford-iiit-pet/images/leonberger_85.jpg,Leonberger,Great Pyrenees,0.38165828585624695
+oxford-iiit-pet/images/leonberger_86.jpg,Leonberger,Havanese,0.9923031330108643
+oxford-iiit-pet/images/miniature_pinscher_113.jpg,Miniature Pinscher,Miniature Pinscher,0.8908548355102539
+oxford-iiit-pet/images/miniature_pinscher_115.jpg,Miniature Pinscher,Miniature Pinscher,0.9672305583953857
+oxford-iiit-pet/images/miniature_pinscher_12.jpg,Miniature Pinscher,American Pit Bull Terrier,0.7019895911216736
+oxford-iiit-pet/images/miniature_pinscher_140.jpg,Miniature Pinscher,Shiba Inu,0.4316771328449249
+oxford-iiit-pet/images/miniature_pinscher_146.jpg,Miniature Pinscher,Miniature Pinscher,0.7683057188987732
+oxford-iiit-pet/images/miniature_pinscher_151.jpg,Miniature Pinscher,Miniature Pinscher,0.9855696558952332
+oxford-iiit-pet/images/miniature_pinscher_158.jpg,Miniature Pinscher,Miniature Pinscher,0.999213457107544
+oxford-iiit-pet/images/miniature_pinscher_169.jpg,Miniature Pinscher,German Shorthaired,0.6037614345550537
+oxford-iiit-pet/images/miniature_pinscher_17.jpg,Miniature Pinscher,Miniature Pinscher,0.28455865383148193
+oxford-iiit-pet/images/miniature_pinscher_172.jpg,Miniature Pinscher,Miniature Pinscher,0.48722660541534424
+oxford-iiit-pet/images/miniature_pinscher_174.jpg,Miniature Pinscher,Miniature Pinscher,0.47346484661102295
+oxford-iiit-pet/images/miniature_pinscher_186.jpg,Miniature Pinscher,Chihuahua,0.7140845656394958
+oxford-iiit-pet/images/miniature_pinscher_193.jpg,Miniature Pinscher,Miniature Pinscher,0.9735167622566223
+oxford-iiit-pet/images/miniature_pinscher_2.jpg,Miniature Pinscher,Miniature Pinscher,0.9714615941047668
+oxford-iiit-pet/images/miniature_pinscher_29.jpg,Miniature Pinscher,Boxer,0.8555894494056702
+oxford-iiit-pet/images/miniature_pinscher_3.jpg,Miniature Pinscher,Shiba Inu,0.6336060166358948
+oxford-iiit-pet/images/miniature_pinscher_31.jpg,Miniature Pinscher,Miniature Pinscher,0.8700229525566101
+oxford-iiit-pet/images/miniature_pinscher_33.jpg,Miniature Pinscher,Abyssinian,0.5734620690345764
+oxford-iiit-pet/images/miniature_pinscher_38.jpg,Miniature Pinscher,German Shorthaired,0.36167430877685547
+oxford-iiit-pet/images/miniature_pinscher_39.jpg,Miniature Pinscher,Miniature Pinscher,0.2961432933807373
+oxford-iiit-pet/images/miniature_pinscher_40.jpg,Miniature Pinscher,Sphynx,0.3488246202468872
+oxford-iiit-pet/images/miniature_pinscher_45.jpg,Miniature Pinscher,Sphynx,0.4263916313648224
+oxford-iiit-pet/images/miniature_pinscher_49.jpg,Miniature Pinscher,Chihuahua,0.6493573784828186
+oxford-iiit-pet/images/miniature_pinscher_50.jpg,Miniature Pinscher,Miniature Pinscher,0.9821889996528625
+oxford-iiit-pet/images/miniature_pinscher_51.jpg,Miniature Pinscher,Sphynx,0.4577251970767975
+oxford-iiit-pet/images/miniature_pinscher_6.jpg,Miniature Pinscher,Miniature Pinscher,0.9928687214851379
+oxford-iiit-pet/images/miniature_pinscher_66.jpg,Miniature Pinscher,Miniature Pinscher,0.9999035596847534
+oxford-iiit-pet/images/miniature_pinscher_69.jpg,Miniature Pinscher,Chihuahua,0.825657844543457
+oxford-iiit-pet/images/miniature_pinscher_82.jpg,Miniature Pinscher,Abyssinian,0.41302841901779175
+oxford-iiit-pet/images/miniature_pinscher_9.jpg,Miniature Pinscher,Chihuahua,0.9244164824485779
+oxford-iiit-pet/images/newfoundland_100.jpg,Newfoundland,Newfoundland,0.9974472522735596
+oxford-iiit-pet/images/newfoundland_101.jpg,Newfoundland,Newfoundland,0.9967719912528992
+oxford-iiit-pet/images/newfoundland_117.jpg,Newfoundland,Newfoundland,0.8619385361671448
+oxford-iiit-pet/images/newfoundland_119.jpg,Newfoundland,Japanese Chin,0.5425985455513
+oxford-iiit-pet/images/newfoundland_13.jpg,Newfoundland,Newfoundland,0.9997641444206238
+oxford-iiit-pet/images/newfoundland_132.jpg,Newfoundland,Newfoundland,0.9991258978843689
+oxford-iiit-pet/images/newfoundland_147.jpg,Newfoundland,Newfoundland,0.9991451501846313
+oxford-iiit-pet/images/newfoundland_149.jpg,Newfoundland,Newfoundland,0.9867544770240784
+oxford-iiit-pet/images/newfoundland_150.jpg,Newfoundland,Newfoundland,0.9987932443618774
+oxford-iiit-pet/images/newfoundland_163.jpg,Newfoundland,Newfoundland,0.9995570778846741
+oxford-iiit-pet/images/newfoundland_173.jpg,Newfoundland,Newfoundland,0.997204065322876
+oxford-iiit-pet/images/newfoundland_177.jpg,Newfoundland,Newfoundland,0.9999855756759644
+oxford-iiit-pet/images/newfoundland_178.jpg,Newfoundland,Newfoundland,0.9184024333953857
+oxford-iiit-pet/images/newfoundland_179.jpg,Newfoundland,Newfoundland,0.9987529516220093
+oxford-iiit-pet/images/newfoundland_185.jpg,Newfoundland,Newfoundland,0.9176825881004333
+oxford-iiit-pet/images/newfoundland_194.jpg,Newfoundland,Newfoundland,0.7528948783874512
+oxford-iiit-pet/images/newfoundland_199.jpg,Newfoundland,Newfoundland,0.9728250503540039
+oxford-iiit-pet/images/newfoundland_20.jpg,Newfoundland,Newfoundland,0.9355340003967285
+oxford-iiit-pet/images/newfoundland_31.jpg,Newfoundland,Newfoundland,0.9999920129776001
+oxford-iiit-pet/images/newfoundland_38.jpg,Newfoundland,Newfoundland,0.9991564750671387
+oxford-iiit-pet/images/newfoundland_43.jpg,Newfoundland,Newfoundland,0.9999722242355347
+oxford-iiit-pet/images/newfoundland_47.jpg,Newfoundland,Newfoundland,0.9940027594566345
+oxford-iiit-pet/images/newfoundland_48.jpg,Newfoundland,Newfoundland,0.8413441777229309
+oxford-iiit-pet/images/newfoundland_57.jpg,Newfoundland,Newfoundland,0.9906248450279236
+oxford-iiit-pet/images/newfoundland_71.jpg,Newfoundland,Newfoundland,0.9988551139831543
+oxford-iiit-pet/images/newfoundland_76.jpg,Newfoundland,Newfoundland,0.9418909549713135
+oxford-iiit-pet/images/newfoundland_79.jpg,Newfoundland,Newfoundland,0.9956631064414978
+oxford-iiit-pet/images/newfoundland_94.jpg,Newfoundland,Newfoundland,0.9574437737464905
+oxford-iiit-pet/images/newfoundland_96.jpg,Newfoundland,Newfoundland,0.9819480180740356
+oxford-iiit-pet/images/newfoundland_99.jpg,Newfoundland,Newfoundland,0.9998928308486938
+oxford-iiit-pet/images/pomeranian_101.jpg,Pomeranian,Pomeranian,0.9967553019523621
+oxford-iiit-pet/images/pomeranian_115.jpg,Pomeranian,Pomeranian,0.99874347448349
+oxford-iiit-pet/images/pomeranian_123.jpg,Pomeranian,Pomeranian,0.9977166652679443
+oxford-iiit-pet/images/pomeranian_127.jpg,Pomeranian,Persian,0.211590975522995
+oxford-iiit-pet/images/pomeranian_134.jpg,Pomeranian,Pomeranian,0.857438862323761
+oxford-iiit-pet/images/pomeranian_137.jpg,Pomeranian,Pomeranian,0.37081289291381836
+oxford-iiit-pet/images/pomeranian_143.jpg,Pomeranian,Pomeranian,0.9996278285980225
+oxford-iiit-pet/images/pomeranian_144.jpg,Pomeranian,Ragdoll,0.8583929538726807
+oxford-iiit-pet/images/pomeranian_153.jpg,Pomeranian,Newfoundland,0.37121087312698364
+oxford-iiit-pet/images/pomeranian_156.jpg,Pomeranian,Pomeranian,0.999994158744812
+oxford-iiit-pet/images/pomeranian_157.jpg,Pomeranian,Shiba Inu,0.8828480243682861
+oxford-iiit-pet/images/pomeranian_162.jpg,Pomeranian,Pomeranian,0.8631715774536133
+oxford-iiit-pet/images/pomeranian_166.jpg,Pomeranian,Pomeranian,0.9986501336097717
+oxford-iiit-pet/images/pomeranian_173.jpg,Pomeranian,Pomeranian,0.9897475242614746
+oxford-iiit-pet/images/pomeranian_179.jpg,Pomeranian,Pomeranian,0.9889945387840271
+oxford-iiit-pet/images/pomeranian_2.jpg,Pomeranian,Pomeranian,0.8254552483558655
+oxford-iiit-pet/images/pomeranian_24.jpg,Pomeranian,Pomeranian,0.958631694316864
+oxford-iiit-pet/images/pomeranian_25.jpg,Pomeranian,Pomeranian,0.9520476460456848
+oxford-iiit-pet/images/pomeranian_37.jpg,Pomeranian,Shiba Inu,0.17757925391197205
+oxford-iiit-pet/images/pomeranian_38.jpg,Pomeranian,Pomeranian,0.8486891984939575
+oxford-iiit-pet/images/pomeranian_43.jpg,Pomeranian,Pomeranian,0.9965914487838745
+oxford-iiit-pet/images/pomeranian_51.jpg,Pomeranian,American Pit Bull Terrier,0.3748239278793335
+oxford-iiit-pet/images/pomeranian_52.jpg,Pomeranian,Pomeranian,0.9998241066932678
+oxford-iiit-pet/images/pomeranian_53.jpg,Pomeranian,Pomeranian,0.9997169375419617
+oxford-iiit-pet/images/pomeranian_55.jpg,Pomeranian,Pomeranian,0.5140743255615234
+oxford-iiit-pet/images/pomeranian_62.jpg,Pomeranian,Pomeranian,0.9998379945755005
+oxford-iiit-pet/images/pomeranian_64.jpg,Pomeranian,Samoyed,0.6815087199211121
+oxford-iiit-pet/images/pomeranian_68.jpg,Pomeranian,Pomeranian,0.9999040365219116
+oxford-iiit-pet/images/pomeranian_84.jpg,Pomeranian,Pomeranian,0.997585654258728
+oxford-iiit-pet/images/pomeranian_88.jpg,Pomeranian,Pomeranian,0.5903076529502869
+oxford-iiit-pet/images/pug_11.jpg,Pug,Pug,0.9993088245391846
+oxford-iiit-pet/images/pug_115.jpg,Pug,Pug,0.9311502575874329
+oxford-iiit-pet/images/pug_117.jpg,Pug,American Bulldog,0.5777300000190735
+oxford-iiit-pet/images/pug_121.jpg,Pug,Newfoundland,0.4620211124420166
+oxford-iiit-pet/images/pug_134.jpg,Pug,Pug,0.9998645782470703
+oxford-iiit-pet/images/pug_14.jpg,Pug,Pug,0.9965607523918152
+oxford-iiit-pet/images/pug_142.jpg,Pug,Pug,0.9998553991317749
+oxford-iiit-pet/images/pug_146.jpg,Pug,Pug,0.9992330074310303
+oxford-iiit-pet/images/pug_147.jpg,Pug,Pug,0.9732757210731506
+oxford-iiit-pet/images/pug_153.jpg,Pug,Pug,0.9998065829277039
+oxford-iiit-pet/images/pug_156.jpg,Pug,Pug,0.9977349042892456
+oxford-iiit-pet/images/pug_164.jpg,Pug,Pug,0.8192929029464722
+oxford-iiit-pet/images/pug_17.jpg,Pug,Pug,0.6343381404876709
+oxford-iiit-pet/images/pug_173.jpg,Pug,Pug,0.9953959584236145
+oxford-iiit-pet/images/pug_176.jpg,Pug,Pug,0.9994126558303833
+oxford-iiit-pet/images/pug_180.jpg,Pug,Pug,0.45661118626594543
+oxford-iiit-pet/images/pug_181.jpg,Pug,Pug,0.5924297571182251
+oxford-iiit-pet/images/pug_184.jpg,Pug,Pug,0.8907120227813721
+oxford-iiit-pet/images/pug_187.jpg,Pug,Pug,0.9999938011169434
+oxford-iiit-pet/images/pug_19.jpg,Pug,Pug,0.999919056892395
+oxford-iiit-pet/images/pug_31.jpg,Pug,Pug,0.5270761251449585
+oxford-iiit-pet/images/pug_36.jpg,Pug,Pug,0.7071956396102905
+oxford-iiit-pet/images/pug_5.jpg,Pug,Wheaten Terrier,0.3095759153366089
+oxford-iiit-pet/images/pug_52.jpg,Pug,Pug,0.9994671940803528
+oxford-iiit-pet/images/pug_57.jpg,Pug,Pug,0.9973289966583252
+oxford-iiit-pet/images/pug_75.jpg,Pug,Pug,0.9995661377906799
+oxford-iiit-pet/images/pug_81.jpg,Pug,Havanese,0.5393228530883789
+oxford-iiit-pet/images/pug_87.jpg,Pug,Pug,0.9990202188491821
+oxford-iiit-pet/images/pug_90.jpg,Pug,Pug,0.9864209890365601
+oxford-iiit-pet/images/pug_95.jpg,Pug,Pug,0.9363939166069031
+oxford-iiit-pet/images/saint_bernard_101.jpg,Saint Bernard,Japanese Chin,0.9194215536117554
+oxford-iiit-pet/images/saint_bernard_118.jpg,Saint Bernard,Saint Bernard,0.9996040463447571
+oxford-iiit-pet/images/saint_bernard_12.jpg,Saint Bernard,Saint Bernard,0.990718424320221
+oxford-iiit-pet/images/saint_bernard_127.jpg,Saint Bernard,Saint Bernard,0.9784218072891235
+oxford-iiit-pet/images/saint_bernard_134.jpg,Saint Bernard,American Bulldog,0.4875706434249878
+oxford-iiit-pet/images/saint_bernard_136.jpg,Saint Bernard,Saint Bernard,0.9891113638877869
+oxford-iiit-pet/images/saint_bernard_14.jpg,Saint Bernard,Saint Bernard,0.8397772312164307
+oxford-iiit-pet/images/saint_bernard_158.jpg,Saint Bernard,Saint Bernard,0.9811851382255554
+oxford-iiit-pet/images/saint_bernard_166.jpg,Saint Bernard,English Cocker Spaniel,0.4856903553009033
+oxford-iiit-pet/images/saint_bernard_173.jpg,Saint Bernard,English Setter,0.9763181805610657
+oxford-iiit-pet/images/saint_bernard_178.jpg,Saint Bernard,Saint Bernard,0.46644312143325806
+oxford-iiit-pet/images/saint_bernard_181.jpg,Saint Bernard,Saint Bernard,0.9663515686988831
+oxford-iiit-pet/images/saint_bernard_195.jpg,Saint Bernard,Saint Bernard,0.6705765724182129
+oxford-iiit-pet/images/saint_bernard_199.jpg,Saint Bernard,Saint Bernard,0.2663138806819916
+oxford-iiit-pet/images/saint_bernard_25.jpg,Saint Bernard,Boxer,0.6557028889656067
+oxford-iiit-pet/images/saint_bernard_33.jpg,Saint Bernard,Saint Bernard,0.8511161208152771
+oxford-iiit-pet/images/saint_bernard_41.jpg,Saint Bernard,Havanese,0.7786831259727478
+oxford-iiit-pet/images/saint_bernard_42.jpg,Saint Bernard,Great Pyrenees,0.49964407086372375
+oxford-iiit-pet/images/saint_bernard_44.jpg,Saint Bernard,Japanese Chin,0.3603420555591583
+oxford-iiit-pet/images/saint_bernard_48.jpg,Saint Bernard,Saint Bernard,0.9559327363967896
+oxford-iiit-pet/images/saint_bernard_50.jpg,Saint Bernard,Saint Bernard,0.9971441626548767
+oxford-iiit-pet/images/saint_bernard_57.jpg,Saint Bernard,Basset Hound,0.6400596499443054
+oxford-iiit-pet/images/saint_bernard_61.jpg,Saint Bernard,Saint Bernard,0.9752734899520874
+oxford-iiit-pet/images/saint_bernard_65.jpg,Saint Bernard,Saint Bernard,0.6556610465049744
+oxford-iiit-pet/images/saint_bernard_68.jpg,Saint Bernard,Saint Bernard,0.9010123610496521
+oxford-iiit-pet/images/saint_bernard_69.jpg,Saint Bernard,German Shorthaired,0.2591637969017029
+oxford-iiit-pet/images/saint_bernard_75.jpg,Saint Bernard,American Bulldog,0.2864215075969696
+oxford-iiit-pet/images/saint_bernard_86.jpg,Saint Bernard,Saint Bernard,0.9998977184295654
+oxford-iiit-pet/images/saint_bernard_89.jpg,Saint Bernard,Saint Bernard,0.5291939973831177
+oxford-iiit-pet/images/saint_bernard_9.jpg,Saint Bernard,American Bulldog,0.9377582669258118
+oxford-iiit-pet/images/samoyed_101.jpg,Samoyed,Samoyed,0.8077972531318665
+oxford-iiit-pet/images/samoyed_116.jpg,Samoyed,English Setter,0.37837839126586914
+oxford-iiit-pet/images/samoyed_118.jpg,Samoyed,Samoyed,0.45197030901908875
+oxford-iiit-pet/images/samoyed_136.jpg,Samoyed,Samoyed,0.946198582649231
+oxford-iiit-pet/images/samoyed_137.jpg,Samoyed,Samoyed,0.9789798259735107
+oxford-iiit-pet/images/samoyed_145.jpg,Samoyed,Samoyed,0.9998466968536377
+oxford-iiit-pet/images/samoyed_150.jpg,Samoyed,Great Pyrenees,0.9663398861885071
+oxford-iiit-pet/images/samoyed_161.jpg,Samoyed,Samoyed,0.9969809651374817
+oxford-iiit-pet/images/samoyed_163.jpg,Samoyed,Samoyed,0.7341780066490173
+oxford-iiit-pet/images/samoyed_166.jpg,Samoyed,Samoyed,0.5182895064353943
+oxford-iiit-pet/images/samoyed_168.jpg,Samoyed,Samoyed,0.7951465249061584
+oxford-iiit-pet/images/samoyed_171.jpg,Samoyed,Persian,0.920350193977356
+oxford-iiit-pet/images/samoyed_176.jpg,Samoyed,Japanese Chin,0.6552480459213257
+oxford-iiit-pet/images/samoyed_178.jpg,Samoyed,Samoyed,0.5024564862251282
+oxford-iiit-pet/images/samoyed_18.jpg,Samoyed,Samoyed,0.9991979002952576
+oxford-iiit-pet/images/samoyed_184.jpg,Samoyed,Samoyed,0.9793135523796082
+oxford-iiit-pet/images/samoyed_185.jpg,Samoyed,Samoyed,0.9760143160820007
+oxford-iiit-pet/images/samoyed_190.jpg,Samoyed,Samoyed,0.9869787693023682
+oxford-iiit-pet/images/samoyed_197.jpg,Samoyed,Samoyed,0.9981467723846436
+oxford-iiit-pet/images/samoyed_21.jpg,Samoyed,Samoyed,0.9984655380249023
+oxford-iiit-pet/images/samoyed_32.jpg,Samoyed,Havanese,0.4354952573776245
+oxford-iiit-pet/images/samoyed_56.jpg,Samoyed,Samoyed,0.9989018440246582
+oxford-iiit-pet/images/samoyed_67.jpg,Samoyed,Samoyed,0.6849923133850098
+oxford-iiit-pet/images/samoyed_74.jpg,Samoyed,Samoyed,0.9725884199142456
+oxford-iiit-pet/images/samoyed_75.jpg,Samoyed,Samoyed,0.9905347228050232
+oxford-iiit-pet/images/samoyed_79.jpg,Samoyed,Samoyed,0.7577916979789734
+oxford-iiit-pet/images/samoyed_82.jpg,Samoyed,Samoyed,0.6137535572052002
+oxford-iiit-pet/images/samoyed_9.jpg,Samoyed,Samoyed,0.9884322285652161
+oxford-iiit-pet/images/samoyed_98.jpg,Samoyed,Samoyed,0.9365738034248352
+oxford-iiit-pet/images/samoyed_99.jpg,Samoyed,Samoyed,0.995550274848938
+oxford-iiit-pet/images/scottish_terrier_108.jpg,Scottish Terrier,English Cocker Spaniel,0.6819249391555786
+oxford-iiit-pet/images/scottish_terrier_111.jpg,Scottish Terrier,Bombay,0.8679302334785461
+oxford-iiit-pet/images/scottish_terrier_120.jpg,Scottish Terrier,Scottish Terrier,0.7931646108627319
+oxford-iiit-pet/images/scottish_terrier_124.jpg,Scottish Terrier,Newfoundland,0.6406269073486328
+oxford-iiit-pet/images/scottish_terrier_125.jpg,Scottish Terrier,Scottish Terrier,0.8622055053710938
+oxford-iiit-pet/images/scottish_terrier_128.jpg,Scottish Terrier,Scottish Terrier,0.8541863560676575
+oxford-iiit-pet/images/scottish_terrier_133.jpg,Scottish Terrier,Scottish Terrier,0.8228335380554199
+oxford-iiit-pet/images/scottish_terrier_136.jpg,Scottish Terrier,Havanese,0.6192900538444519
+oxford-iiit-pet/images/scottish_terrier_138.jpg,Scottish Terrier,Scottish Terrier,0.9749503135681152
+oxford-iiit-pet/images/scottish_terrier_146.jpg,Scottish Terrier,Newfoundland,0.3683941960334778
+oxford-iiit-pet/images/scottish_terrier_148.jpg,Scottish Terrier,Scottish Terrier,0.9978122711181641
+oxford-iiit-pet/images/scottish_terrier_16.jpg,Scottish Terrier,Scottish Terrier,0.999987006187439
+oxford-iiit-pet/images/scottish_terrier_165.jpg,Scottish Terrier,Scottish Terrier,0.9447603225708008
+oxford-iiit-pet/images/scottish_terrier_18.jpg,Scottish Terrier,Scottish Terrier,0.4130628705024719
+oxford-iiit-pet/images/scottish_terrier_182.jpg,Scottish Terrier,Scottish Terrier,0.8393875360488892
+oxford-iiit-pet/images/scottish_terrier_184.jpg,Scottish Terrier,Scottish Terrier,0.859113872051239
+oxford-iiit-pet/images/scottish_terrier_187.jpg,Scottish Terrier,Scottish Terrier,0.6982002258300781
+oxford-iiit-pet/images/scottish_terrier_19.jpg,Scottish Terrier,Scottish Terrier,0.6606259942054749
+oxford-iiit-pet/images/scottish_terrier_26.jpg,Scottish Terrier,Yorkshire Terrier,0.38784730434417725
+oxford-iiit-pet/images/scottish_terrier_29.jpg,Scottish Terrier,Scottish Terrier,0.8499763607978821
+oxford-iiit-pet/images/scottish_terrier_4.jpg,Scottish Terrier,Scottish Terrier,0.9979432225227356
+oxford-iiit-pet/images/scottish_terrier_40.jpg,Scottish Terrier,Scottish Terrier,0.9998007416725159
+oxford-iiit-pet/images/scottish_terrier_47.jpg,Scottish Terrier,Havanese,0.3665275275707245
+oxford-iiit-pet/images/scottish_terrier_49.jpg,Scottish Terrier,Scottish Terrier,0.8928170204162598
+oxford-iiit-pet/images/scottish_terrier_59.jpg,Scottish Terrier,Scottish Terrier,0.9459180235862732
+oxford-iiit-pet/images/scottish_terrier_65.jpg,Scottish Terrier,Scottish Terrier,0.9549820423126221
+oxford-iiit-pet/images/scottish_terrier_66.jpg,Scottish Terrier,Scottish Terrier,0.9984001517295837
+oxford-iiit-pet/images/scottish_terrier_9.jpg,Scottish Terrier,Scottish Terrier,0.7559624314308167
+oxford-iiit-pet/images/scottish_terrier_91.jpg,Scottish Terrier,Scottish Terrier,0.5596826672554016
+oxford-iiit-pet/images/scottish_terrier_97.jpg,Scottish Terrier,Scottish Terrier,0.981933057308197
+oxford-iiit-pet/images/shiba_inu_117.jpg,Shiba Inu,Chihuahua,0.7008531093597412
+oxford-iiit-pet/images/shiba_inu_121.jpg,Shiba Inu,Shiba Inu,0.9997095465660095
+oxford-iiit-pet/images/shiba_inu_134.jpg,Shiba Inu,Shiba Inu,0.9999945163726807
+oxford-iiit-pet/images/shiba_inu_15.jpg,Shiba Inu,Shiba Inu,0.999473512172699
+oxford-iiit-pet/images/shiba_inu_153.jpg,Shiba Inu,Beagle,0.6577946543693542
+oxford-iiit-pet/images/shiba_inu_16.jpg,Shiba Inu,Shiba Inu,0.9962971806526184
+oxford-iiit-pet/images/shiba_inu_160.jpg,Shiba Inu,Shiba Inu,0.9777417778968811
+oxford-iiit-pet/images/shiba_inu_168.jpg,Shiba Inu,Shiba Inu,0.9911495447158813
+oxford-iiit-pet/images/shiba_inu_174.jpg,Shiba Inu,Shiba Inu,0.9973946809768677
+oxford-iiit-pet/images/shiba_inu_181.jpg,Shiba Inu,Shiba Inu,0.9440199732780457
+oxford-iiit-pet/images/shiba_inu_185.jpg,Shiba Inu,Shiba Inu,0.8607674837112427
+oxford-iiit-pet/images/shiba_inu_204.jpg,Shiba Inu,Boxer,0.345855712890625
+oxford-iiit-pet/images/shiba_inu_209.jpg,Shiba Inu,Shiba Inu,0.9965834021568298
+oxford-iiit-pet/images/shiba_inu_212.jpg,Shiba Inu,American Pit Bull Terrier,0.3752196431159973
+oxford-iiit-pet/images/shiba_inu_32.jpg,Shiba Inu,Shiba Inu,0.9237939715385437
+oxford-iiit-pet/images/shiba_inu_4.jpg,Shiba Inu,Shiba Inu,0.4110758602619171
+oxford-iiit-pet/images/shiba_inu_41.jpg,Shiba Inu,Shiba Inu,0.9992344379425049
+oxford-iiit-pet/images/shiba_inu_52.jpg,Shiba Inu,Shiba Inu,0.9986043572425842
+oxford-iiit-pet/images/shiba_inu_54.jpg,Shiba Inu,Abyssinian,0.44533032178878784
+oxford-iiit-pet/images/shiba_inu_62.jpg,Shiba Inu,Shiba Inu,0.4759322702884674
+oxford-iiit-pet/images/shiba_inu_65.jpg,Shiba Inu,Shiba Inu,0.5963667631149292
+oxford-iiit-pet/images/shiba_inu_72.jpg,Shiba Inu,Shiba Inu,0.9999419450759888
+oxford-iiit-pet/images/shiba_inu_75.jpg,Shiba Inu,Shiba Inu,0.8431112766265869
+oxford-iiit-pet/images/shiba_inu_77.jpg,Shiba Inu,Shiba Inu,0.6795644164085388
+oxford-iiit-pet/images/shiba_inu_78.jpg,Shiba Inu,Shiba Inu,0.9970291256904602
+oxford-iiit-pet/images/shiba_inu_83.jpg,Shiba Inu,Shiba Inu,0.9982404708862305
+oxford-iiit-pet/images/shiba_inu_87.jpg,Shiba Inu,Shiba Inu,0.9630685448646545
+oxford-iiit-pet/images/shiba_inu_88.jpg,Shiba Inu,Shiba Inu,0.976375937461853
+oxford-iiit-pet/images/shiba_inu_93.jpg,Shiba Inu,Shiba Inu,0.964495062828064
+oxford-iiit-pet/images/shiba_inu_98.jpg,Shiba Inu,Shiba Inu,0.6118890643119812
+oxford-iiit-pet/images/staffordshire_bull_terrier_106.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9504202604293823
+oxford-iiit-pet/images/staffordshire_bull_terrier_111.jpg,Staffordshire Bull Terrier,Pug,0.8577039837837219
+oxford-iiit-pet/images/staffordshire_bull_terrier_118.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.7173068523406982
+oxford-iiit-pet/images/staffordshire_bull_terrier_140.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9962002635002136
+oxford-iiit-pet/images/staffordshire_bull_terrier_159.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9543545842170715
+oxford-iiit-pet/images/staffordshire_bull_terrier_171.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.6402609944343567
+oxford-iiit-pet/images/staffordshire_bull_terrier_18.jpg,Staffordshire Bull Terrier,American Bulldog,0.46119001507759094
+oxford-iiit-pet/images/staffordshire_bull_terrier_183.jpg,Staffordshire Bull Terrier,German Shorthaired,0.4980909824371338
+oxford-iiit-pet/images/staffordshire_bull_terrier_186.jpg,Staffordshire Bull Terrier,Newfoundland,0.6939558982849121
+oxford-iiit-pet/images/staffordshire_bull_terrier_188.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.4533120393753052
+oxford-iiit-pet/images/staffordshire_bull_terrier_192.jpg,Staffordshire Bull Terrier,Miniature Pinscher,0.5812996029853821
+oxford-iiit-pet/images/staffordshire_bull_terrier_196.jpg,Staffordshire Bull Terrier,Pug,0.6672878861427307
+oxford-iiit-pet/images/staffordshire_bull_terrier_27.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.9742199778556824
+oxford-iiit-pet/images/staffordshire_bull_terrier_29.jpg,Staffordshire Bull Terrier,English Setter,0.5839502811431885
+oxford-iiit-pet/images/staffordshire_bull_terrier_33.jpg,Staffordshire Bull Terrier,American Bulldog,0.8288013339042664
+oxford-iiit-pet/images/staffordshire_bull_terrier_37.jpg,Staffordshire Bull Terrier,Newfoundland,0.38501399755477905
+oxford-iiit-pet/images/staffordshire_bull_terrier_45.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.7513472437858582
+oxford-iiit-pet/images/staffordshire_bull_terrier_55.jpg,Staffordshire Bull Terrier,Russian Blue,0.5397529006004333
+oxford-iiit-pet/images/staffordshire_bull_terrier_59.jpg,Staffordshire Bull Terrier,German Shorthaired,0.6080569624900818
+oxford-iiit-pet/images/staffordshire_bull_terrier_60.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.5392837524414062
+oxford-iiit-pet/images/staffordshire_bull_terrier_62.jpg,Staffordshire Bull Terrier,Boxer,0.45806047320365906
+oxford-iiit-pet/images/staffordshire_bull_terrier_78.jpg,Staffordshire Bull Terrier,Japanese Chin,0.3205500841140747
+oxford-iiit-pet/images/staffordshire_bull_terrier_8.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.5313195586204529
+oxford-iiit-pet/images/staffordshire_bull_terrier_82.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.6029886603355408
+oxford-iiit-pet/images/staffordshire_bull_terrier_83.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.5218748450279236
+oxford-iiit-pet/images/staffordshire_bull_terrier_84.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.44162505865097046
+oxford-iiit-pet/images/staffordshire_bull_terrier_96.jpg,Staffordshire Bull Terrier,Havanese,0.45546194911003113
+oxford-iiit-pet/images/staffordshire_bull_terrier_98.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.41044843196868896
+oxford-iiit-pet/images/wheaten_terrier_10.jpg,Wheaten Terrier,Wheaten Terrier,0.5738143920898438
+oxford-iiit-pet/images/wheaten_terrier_106.jpg,Wheaten Terrier,Havanese,0.8253125548362732
+oxford-iiit-pet/images/wheaten_terrier_108.jpg,Wheaten Terrier,Havanese,0.9888415932655334
+oxford-iiit-pet/images/wheaten_terrier_113.jpg,Wheaten Terrier,Yorkshire Terrier,0.43909937143325806
+oxford-iiit-pet/images/wheaten_terrier_129.jpg,Wheaten Terrier,Great Pyrenees,0.654198169708252
+oxford-iiit-pet/images/wheaten_terrier_13.jpg,Wheaten Terrier,Wheaten Terrier,0.9577202200889587
+oxford-iiit-pet/images/wheaten_terrier_131.jpg,Wheaten Terrier,Wheaten Terrier,0.8543084263801575
+oxford-iiit-pet/images/wheaten_terrier_132.jpg,Wheaten Terrier,English Cocker Spaniel,0.2535821497440338
+oxford-iiit-pet/images/wheaten_terrier_163.jpg,Wheaten Terrier,Wheaten Terrier,0.730298638343811
+oxford-iiit-pet/images/wheaten_terrier_165.jpg,Wheaten Terrier,Havanese,0.6884409189224243
+oxford-iiit-pet/images/wheaten_terrier_187.jpg,Wheaten Terrier,Wheaten Terrier,0.9810779690742493
+oxford-iiit-pet/images/wheaten_terrier_21.jpg,Wheaten Terrier,Wheaten Terrier,0.9999105930328369
+oxford-iiit-pet/images/wheaten_terrier_25.jpg,Wheaten Terrier,Wheaten Terrier,0.7424056529998779
+oxford-iiit-pet/images/wheaten_terrier_28.jpg,Wheaten Terrier,Havanese,0.4986145794391632
+oxford-iiit-pet/images/wheaten_terrier_32.jpg,Wheaten Terrier,German Shorthaired,0.7618723511695862
+oxford-iiit-pet/images/wheaten_terrier_36.jpg,Wheaten Terrier,Havanese,0.9526206851005554
+oxford-iiit-pet/images/wheaten_terrier_37.jpg,Wheaten Terrier,Wheaten Terrier,0.793384313583374
+oxford-iiit-pet/images/wheaten_terrier_44.jpg,Wheaten Terrier,Wheaten Terrier,0.9944912195205688
+oxford-iiit-pet/images/wheaten_terrier_49.jpg,Wheaten Terrier,Wheaten Terrier,0.9995365142822266
+oxford-iiit-pet/images/wheaten_terrier_52.jpg,Wheaten Terrier,Maine Coon,0.5576357841491699
+oxford-iiit-pet/images/wheaten_terrier_64.jpg,Wheaten Terrier,Wheaten Terrier,0.7113870978355408
+oxford-iiit-pet/images/wheaten_terrier_68.jpg,Wheaten Terrier,Wheaten Terrier,0.8364822864532471
+oxford-iiit-pet/images/wheaten_terrier_70.jpg,Wheaten Terrier,Wheaten Terrier,0.34475889801979065
+oxford-iiit-pet/images/wheaten_terrier_79.jpg,Wheaten Terrier,Wheaten Terrier,0.7544005513191223
+oxford-iiit-pet/images/wheaten_terrier_8.jpg,Wheaten Terrier,Wheaten Terrier,0.9672191739082336
+oxford-iiit-pet/images/wheaten_terrier_82.jpg,Wheaten Terrier,Wheaten Terrier,0.9435353875160217
+oxford-iiit-pet/images/wheaten_terrier_85.jpg,Wheaten Terrier,Havanese,0.9815037250518799
+oxford-iiit-pet/images/wheaten_terrier_87.jpg,Wheaten Terrier,Havanese,0.2474769949913025
+oxford-iiit-pet/images/wheaten_terrier_89.jpg,Wheaten Terrier,Havanese,0.335603803396225
+oxford-iiit-pet/images/wheaten_terrier_91.jpg,Wheaten Terrier,Wheaten Terrier,0.4517837166786194
+oxford-iiit-pet/images/yorkshire_terrier_106.jpg,Yorkshire Terrier,Havanese,0.9970545768737793
+oxford-iiit-pet/images/yorkshire_terrier_128.jpg,Yorkshire Terrier,Yorkshire Terrier,0.6870834827423096
+oxford-iiit-pet/images/yorkshire_terrier_134.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9770457744598389
+oxford-iiit-pet/images/yorkshire_terrier_138.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9669880867004395
+oxford-iiit-pet/images/yorkshire_terrier_145.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9519935250282288
+oxford-iiit-pet/images/yorkshire_terrier_160.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9974043965339661
+oxford-iiit-pet/images/yorkshire_terrier_162.jpg,Yorkshire Terrier,Scottish Terrier,0.8227211236953735
+oxford-iiit-pet/images/yorkshire_terrier_168.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9816957712173462
+oxford-iiit-pet/images/yorkshire_terrier_169.jpg,Yorkshire Terrier,Bengal,0.886662483215332
+oxford-iiit-pet/images/yorkshire_terrier_175.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9945080876350403
+oxford-iiit-pet/images/yorkshire_terrier_18.jpg,Yorkshire Terrier,Havanese,0.6586178541183472
+oxford-iiit-pet/images/yorkshire_terrier_188.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9934351444244385
+oxford-iiit-pet/images/yorkshire_terrier_191.jpg,Yorkshire Terrier,Yorkshire Terrier,0.6254128813743591
+oxford-iiit-pet/images/yorkshire_terrier_194.jpg,Yorkshire Terrier,Yorkshire Terrier,0.6825026273727417
+oxford-iiit-pet/images/yorkshire_terrier_197.jpg,Yorkshire Terrier,Havanese,0.9501862525939941
+oxford-iiit-pet/images/yorkshire_terrier_2.jpg,Yorkshire Terrier,English Cocker Spaniel,0.5937680006027222
+oxford-iiit-pet/images/yorkshire_terrier_29.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9265649914741516
+oxford-iiit-pet/images/yorkshire_terrier_48.jpg,Yorkshire Terrier,Yorkshire Terrier,0.7274200916290283
+oxford-iiit-pet/images/yorkshire_terrier_54.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9998878240585327
+oxford-iiit-pet/images/yorkshire_terrier_59.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9980605244636536
+oxford-iiit-pet/images/yorkshire_terrier_62.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9995972514152527
+oxford-iiit-pet/images/yorkshire_terrier_67.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9999957084655762
+oxford-iiit-pet/images/yorkshire_terrier_68.jpg,Yorkshire Terrier,Yorkshire Terrier,0.953036367893219
+oxford-iiit-pet/images/yorkshire_terrier_70.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9998279809951782
+oxford-iiit-pet/images/yorkshire_terrier_78.jpg,Yorkshire Terrier,Yorkshire Terrier,0.8586935997009277
+oxford-iiit-pet/images/yorkshire_terrier_81.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9812564253807068
+oxford-iiit-pet/images/yorkshire_terrier_86.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9837629795074463
+oxford-iiit-pet/images/yorkshire_terrier_91.jpg,Yorkshire Terrier,Yorkshire Terrier,0.30498600006103516
+oxford-iiit-pet/images/yorkshire_terrier_92.jpg,Yorkshire Terrier,Yorkshire Terrier,0.9822743535041809
+oxford-iiit-pet/images/yorkshire_terrier_97.jpg,Yorkshire Terrier,Yorkshire Terrier,0.48423850536346436

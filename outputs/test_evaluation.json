@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "started_at": "2026-10-12T19:27:33.551015+00:00",
+  "selected_run": "mobile_4",
+  "split_sha256": "34efa2b936013bda7f4ab2fbc1f7d1f1a86861fe72ccf44492d9b39ef5af3e7b",
+  "final_sha256": "befd877c51f8301d47da6b94f93992095c5b8c66447b7e2cb0d0d43c78bf14b2",
+  "selection_metric": "validation macro-F1",
+  "models": [
+    "final",
+    "baseline"
+  ],
+  "finished_at": "2026-10-12T19:28:05.018609+00:00"
+}

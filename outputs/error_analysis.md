@@ -1,0 +1,5 @@
+I found 13 errors between British Shorthair and Russian Blue, 12 between Birman and Ragdoll, and 11 between American Pit Bull Terrier and Staffordshire Bull Terrier. These are the largest two-way confusions in [the pair plot](outputs/confused_pairs.png). The counts and directions are in [outputs/confused_pairs.json](outputs/confused_pairs.json).
+
+Staffordshire Bull Terrier was the weakest class by recall: precision 47.37%, recall 32.14%, with 28 test images. Beagle recall was 33.33% across 30 images. The [per-class CSV](outputs/final_per_class.csv) records every breed's precision and recall. Top-5 accuracy (92.93%) is higher than top-1 accuracy (67.63%); the correct breed often remains in the candidate list.
+
+I put the most confident mistakes in [the error grid](outputs/misclassified.png). Several shaggy dogs were predicted as Havanese, and grey British Shorthair cats were predicted as Russian Blue. The displayed probabilities round to 98-100% despite the wrong labels, so the threshold accepts those cases. Accepted test accuracy was 88.85%; the validation target did not guarantee the same accuracy on test. I kept the threshold chosen on validation.
