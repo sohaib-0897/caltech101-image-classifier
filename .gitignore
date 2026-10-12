@@ -1,0 +1,15 @@
+datasets/
+.venv/
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+checkpoints/*
+!checkpoints/.gitkeep
+!checkpoints/final.pt
+outputs/**/*.npy
+outputs/**/*.npz
+outputs/**/*.zip
+outputs/**/*.mp4
+outputs/**/predictions.csv
+.pytest_cache/
