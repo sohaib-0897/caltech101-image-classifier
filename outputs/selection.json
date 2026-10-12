@@ -34,6 +34,14 @@
       "unfreeze": "2",
       "weighted": "False",
       "val_macro_f1": "0.6828280846925748"
+    },
+    {
+      "run": "weighted",
+      "lr": "0.001",
+      "batch_size": "32",
+      "unfreeze": "2",
+      "weighted": "True",
+      "val_macro_f1": "0.6774216630073726"
     }
   ]
 }

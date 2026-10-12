@@ -91,7 +91,7 @@ def run_training(args):
     summary = {"run": args.run, "model": args.model, "seed": args.seed, "lr": args.lr, "batch_size": args.batch_size,
                "unfreeze": args.unfreeze if args.model == "mobilenet" else 0,
                "head_epochs": args.head_epochs if args.model == "mobilenet" else 0,
-               "fine_epochs": args.fine_epochs if args.model == "mobilenet" else args.epochs, "weighted": False,
+               "fine_epochs": args.fine_epochs if args.model == "mobilenet" else args.epochs, "weighted": args.weighted,
                "device": str(device), "threads": args.threads, "split_sha256": split_info["split_sha256"],
                "started_at": datetime.now(timezone.utc).isoformat(), "status": "failed", "error": ""}
     history, best_f1, started = [], -1.0, time.perf_counter()
@@ -103,7 +103,11 @@ def run_training(args):
             optimizer = torch.optim.AdamW(model.classifier.parameters(), lr=args.lr, weight_decay=1e-4)
         else:
             optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=1e-4)
-        loss_fn = nn.CrossEntropyLoss()
+        weights = None
+        if args.weighted:
+            counts = torch.bincount(torch.tensor([row["label"] for row in train_rows]), minlength=len(classes)).float()
+            weights = (counts.sum() / (len(classes) * counts)).to(device)
+        loss_fn = nn.CrossEntropyLoss(weight=weights)
         epochs = args.epochs if args.model == "cnn" else args.head_epochs + args.fine_epochs
         for epoch in range(1, epochs + 1):
             phase = "scratch" if args.model == "cnn" else "head" if epoch <= args.head_epochs else "fine"
@@ -160,6 +164,7 @@ def search(args):
         run_args.model, run_args.run = "mobilenet", f"mobile_{index + 1}"
         run_args.lr, run_args.batch_size, run_args.unfreeze = lr, batch_size, blocks
         run_args.search = False
+        run_args.weighted = False
         path = args.output / "runs" / f"{run_args.run}.json"
         if path.exists():
             previous = json.loads(path.read_text())["summary"]
@@ -174,13 +179,43 @@ def search(args):
     print(f"Selected {best['run']} by validation macro-F1 {float(best['val_macro_f1']):.4f}", flush=True)
 
 
+def compare_imbalance(args):
+    with (args.output / "run_log.csv").open(newline="") as file:
+        candidates = [row for row in csv.DictReader(file) if row["model"] == "mobilenet"
+                      and row["status"] == "complete" and row["weighted"] == "False"]
+    if not candidates:
+        raise ValueError("Run the unweighted search before the imbalance comparison")
+    best = max(candidates, key=lambda row: float(row["val_macro_f1"]))
+    saved = torch.load(args.checkpoints / f"{best['run']}.pt", map_location="cpu", weights_only=True)
+    keys = ("seed", "lr", "batch_size", "unfreeze", "head_epochs", "fine_epochs", "image_size", "threads", "workers", "device")
+    run_args = copy(args)
+    for key in keys:
+        setattr(run_args, key, saved["training"][key])
+    run_args.model, run_args.run, run_args.weighted = "mobilenet", "weighted", True
+    run_args.search = run_args.compare_imbalance = False
+    weighted = run_training(run_args)
+    counts = json.loads((args.output / "splits.json").read_text())["class_counts"]["train"]
+    total = sum(counts.values())
+    comparison = {"unweighted_run": best["run"], "weighted_run": weighted["run"],
+                  "unweighted_val_macro_f1": float(best["val_macro_f1"]), "weighted_val_macro_f1": weighted["val_macro_f1"],
+                  "difference": weighted["val_macro_f1"] - float(best["val_macro_f1"]),
+                  "controls": {key: saved["training"][key] for key in keys}, "train_class_counts": counts,
+                  "class_weights": {name: total / (len(counts) * count) for name, count in counts.items()}}
+    (args.output / "imbalance_comparison.json").write_text(json.dumps(comparison, indent=2) + "\n")
+    best = select_run(args.output)
+    print(f"Selected {best['run']} after the imbalance comparison", flush=True)
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path("datasets"))
     parser.add_argument("--output", type=Path, default=Path("outputs"))
     parser.add_argument("--checkpoints", type=Path, default=Path("checkpoints"))
     parser.add_argument("--run", default="baseline")
-    parser.add_argument("--search", action="store_true")
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument("--search", action="store_true")
+    group.add_argument("--compare-imbalance", action="store_true")
+    parser.add_argument("--weighted", action="store_true")
     parser.add_argument("--model", choices=["cnn", "mobilenet"], default="cnn")
     parser.add_argument("--epochs", type=int, default=8)
     parser.add_argument("--head-epochs", type=int, default=2)
@@ -196,7 +231,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if min(args.epochs, args.head_epochs, args.fine_epochs, args.batch_size, args.threads) < 1 or args.unfreeze < 0:
         parser.error("epochs, batch size and threads must be positive")
+    if args.search and args.weighted:
+        parser.error("the search is unweighted; use --compare-imbalance afterwards")
     if args.search:
         search(args)
+    elif args.compare_imbalance:
+        compare_imbalance(args)
     else:
         run_training(args)
