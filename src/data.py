@@ -102,7 +102,7 @@ def read_split(path, split):
 
 
 def split_hash(path):
-    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+    return hashlib.sha256(Path(path).read_text(encoding="utf-8").encode("utf-8")).hexdigest()
 
 
 class ImageDataset(Dataset):
@@ -158,6 +158,7 @@ def make_split(output, seed):
     if any(len(c) != len(report["class_names"]) for c in counts.values()):
         raise ValueError("Every class must occur in every split")
     info = {"dataset": report["name"], "seed": seed, "class_names": report["class_names"], "split_sha256": split_hash(path),
+            "split_hash_policy": "UTF-8 CSV with normalized line endings",
             "images": len(rows), "excluded_duplicates": excluded, "excluded_corrupt": report["corrupt_files"],
             "sizes": {name: sum(c.values()) for name, c in counts.items()}, "class_counts": counts}
     (output / "splits.json").write_text(json.dumps(info, indent=2) + "\n")
