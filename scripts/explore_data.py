@@ -70,7 +70,8 @@ def explore(root, output, name):
     fig.tight_layout()
     fig.savefig(output / "image_sizes.png", dpi=150)
     plt.close(fig)
-    review_names = [c for c in classes if c.lower() in ("faces", "faces_easy", "leopards", "cougar_body", "cougar_face")]
+    review_names = [c for c in classes if c.lower().replace(" ", "_") in ("faces", "faces_easy", "leopards", "cougar_body", "cougar_face",
+                     "american_bulldog", "american_pit_bull_terrier", "staffordshire_bull_terrier", "birman", "ragdoll", "siamese")]
     review_rows = []
     for name in review_names:
         review_rows.extend([r for r in rows if r["class_name"] == name][:3])
