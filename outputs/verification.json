@@ -1,0 +1,127 @@
+{
+  "pytest": {
+    "passed": 14,
+    "failures": 0,
+    "errors": 0
+  },
+  "final_checkpoint_sha256": "befd877c51f8301d47da6b94f93992095c5b8c66447b7e2cb0d0d43c78bf14b2",
+  "split_sha256": "34efa2b936013bda7f4ab2fbc1f7d1f1a86861fe72ccf44492d9b39ef5af3e7b",
+  "health": {
+    "status": "ok",
+    "run": "mobile_4",
+    "dataset": "pets",
+    "classes": 37
+  },
+  "upload_modes": {
+    "RGB": {
+      "label": "uncertain",
+      "uncertain": true,
+      "threshold": 0.85,
+      "predictions": [
+        {
+          "label": "Abyssinian",
+          "probability": 0.22286994755268097
+        },
+        {
+          "label": "American Bulldog",
+          "probability": 0.17213383316993713
+        },
+        {
+          "label": "Sphynx",
+          "probability": 0.1094171330332756
+        },
+        {
+          "label": "Maine Coon",
+          "probability": 0.08940587937831879
+        },
+        {
+          "label": "Bengal",
+          "probability": 0.06825627386569977
+        }
+      ]
+    },
+    "L": {
+      "label": "uncertain",
+      "uncertain": true,
+      "threshold": 0.85,
+      "predictions": [
+        {
+          "label": "American Bulldog",
+          "probability": 0.1647706925868988
+        },
+        {
+          "label": "Maine Coon",
+          "probability": 0.14464838802814484
+        },
+        {
+          "label": "American Pit Bull Terrier",
+          "probability": 0.08298134058713913
+        },
+        {
+          "label": "Persian",
+          "probability": 0.05015140399336815
+        },
+        {
+          "label": "Beagle",
+          "probability": 0.04552409052848816
+        }
+      ]
+    },
+    "RGBA": {
+      "label": "uncertain",
+      "uncertain": true,
+      "threshold": 0.85,
+      "predictions": [
+        {
+          "label": "Abyssinian",
+          "probability": 0.22286994755268097
+        },
+        {
+          "label": "American Bulldog",
+          "probability": 0.17213383316993713
+        },
+        {
+          "label": "Sphynx",
+          "probability": 0.1094171330332756
+        },
+        {
+          "label": "Maine Coon",
+          "probability": 0.08940587937831879
+        },
+        {
+          "label": "Bengal",
+          "probability": 0.06825627386569977
+        }
+      ]
+    }
+  },
+  "unreadable_upload_status": 400,
+  "cli_prediction": {
+    "label": "uncertain",
+    "uncertain": true,
+    "threshold": 0.85,
+    "predictions": [
+      {
+        "label": "Abyssinian",
+        "probability": 0.22286994755268097
+      },
+      {
+        "label": "American Bulldog",
+        "probability": 0.17213383316993713
+      },
+      {
+        "label": "Sphynx",
+        "probability": 0.1094171330332756
+      },
+      {
+        "label": "Maine Coon",
+        "probability": 0.08940587937831879
+      },
+      {
+        "label": "Bengal",
+        "probability": 0.06825627386569977
+      }
+    ]
+  },
+  "deterministic_prediction": true
+}
