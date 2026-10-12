@@ -10,35 +10,9 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from PIL import Image, UnidentifiedImageError
-from torchvision.datasets import Caltech101, OxfordIIITPet
-
-
-def read_dataset(root, name="auto"):
-    root = Path(root)
-    failure = None
-    if name != "pets":
-        try:
-            dataset = Caltech101(root=str(root), target_type="category", download=True)
-            rows = [
-                {"path": (Path("caltech101/101_ObjectCategories") / dataset.categories[label]
-                          / f"image_{index:04d}.jpg").as_posix(),
-                 "label": label, "class_name": dataset.categories[label]}
-                for index, label in zip(dataset.index, dataset.y)
-            ]
-            return rows, dataset.categories, {"name": "caltech101", "download_failure": None}
-        except Exception as exc:
-            if name == "caltech101":
-                raise
-            failure = f"{type(exc).__name__}: {exc}"
-            print(f"Caltech-101 download failed: {failure}\nUsing Oxford-IIIT Pet instead.", flush=True)
-    dataset = OxfordIIITPet(root=str(root), split="trainval", target_types="category", download=True)
-    other = OxfordIIITPet(root=str(root), split="test", target_types="category", download=True)
-    rows = [
-        {"path": Path(path).relative_to(root).as_posix(), "label": int(label),
-         "class_name": dataset.classes[label]}
-        for path, label in zip(dataset._images + other._images, dataset._labels + other._labels)
-    ]
-    return rows, dataset.classes, {"name": "pets", "download_failure": failure}
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from src.data import read_dataset
 
 
 def explore(root, output, name):
@@ -97,7 +71,7 @@ def explore(root, output, name):
     fig.savefig(output / "image_sizes.png", dpi=150)
     plt.close(fig)
     review_names = [c for c in classes if c.lower() in ("faces", "faces_easy", "leopards", "cougar_body", "cougar_face")]
-    review_rows = [r for name in review_names for r in rows if r["class_name"] == name][:0]
+    review_rows = []
     for name in review_names:
         review_rows.extend([r for r in rows if r["class_name"] == name][:3])
     if review_rows:
