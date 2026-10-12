@@ -16,7 +16,3 @@ class SmallCNN(nn.Module):
         return self.classifier(self.features(images))
 
 
-def make_model(name, classes, pretrained=False):
-    if name == "cnn":
-        return SmallCNN(classes)
-    raise ValueError(f"Unknown model: {name}")

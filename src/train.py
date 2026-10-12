@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score, f1_score
 from torch import nn
 
 from src.data import make_loader, preprocessing, read_split, seed_everything, split_hash
-from src.models import make_model
+from src.models import SmallCNN
 
 
 RUN_FIELDS = ["run", "model", "seed", "lr", "batch_size", "unfreeze", "head_epochs", "fine_epochs", "weighted",
@@ -89,7 +89,7 @@ def run_training(args):
                "started_at": datetime.now(timezone.utc).isoformat(), "status": "failed", "error": ""}
     history, best_f1, started = [], -1.0, time.perf_counter()
     try:
-        model = make_model(args.model, len(classes)).to(device)
+        model = SmallCNN(len(classes)).to(device)
         summary["parameters"] = sum(p.numel() for p in model.parameters())
         optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=1e-4)
         loss_fn = nn.CrossEntropyLoss()
